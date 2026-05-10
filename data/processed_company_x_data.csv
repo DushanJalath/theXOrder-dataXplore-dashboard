@@ -1,0 +1,801 @@
+Age,Gender,Country,Visit_Date,Seating_Region,Ticket_Price,Num_Tickets,Merchandise_Spend,Drink_Spend,Repeat_Visit,Satisfaction_Score,Recommendation_Likelihood,Ticket_Revenue,Total_Revenue,Visit_Month,Visit_DayOfWeek,Is_Weekend,Age_Group,Spend_Level,Customer_Segment
+56,Male,Sweden,2025-06-08,VIP,200,2,35.5,4.94,0,10.0,8,400,440.44,2025-06,Sunday,1,45-59,High,First-Time | VIP | High
+69,Female,Australia,2025-04-10,Premium,150,4,96.09,8.37,1,7.9,10,600,704.46,2025-04,Thursday,0,60+,High,Repeat | Premium | High
+46,Female,USA,2025-04-11,Premium,150,2,37.05,0.38,0,8.3,10,300,337.43,2025-04,Friday,0,45-59,Medium,First-Time | Premium | Medium
+32,Male,Australia,2025-02-09,High Economy,100,4,34.22,16.79,0,7.3,8,400,451.01000000000005,2025-02,Sunday,1,30-44,High,First-Time | High Economy | High
+60,Male,USA,2025-02-20,High Economy,100,1,63.07,38.77,1,8.2,8,100,201.84,2025-02,Thursday,0,60+,Low,Repeat | High Economy | Low
+25,Female,Japan,2025-07-27,Premium,150,3,34.56,17.37,0,8.2,8,450,501.93,2025-07,Sunday,1,18-29,High,First-Time | Premium | High
+38,Female,Germany,2025-07-01,VIP,200,2,6.81,20.0,1,9.4,8,400,426.81,2025-07,Tuesday,0,30-44,High,Repeat | VIP | High
+56,Other,Japan,2025-06-14,VIP,200,2,71.64,62.26,0,8.1,10,400,533.9,2025-06,Saturday,1,45-59,High,First-Time | VIP | High
+36,Male,UK,2025-01-29,Economy,60,4,87.49,5.1,0,8.2,8,240,332.59000000000003,2025-01,Wednesday,0,30-44,Medium,First-Time | Economy | Medium
+40,Female,Sweden,2025-05-29,Premium,150,4,41.95,38.67,1,8.8,7,600,680.62,2025-05,Thursday,0,30-44,High,Repeat | Premium | High
+28,Male,USA,2025-02-04,High Economy,100,2,60.59,14.21,0,9.3,4,200,274.8,2025-02,Tuesday,0,18-29,Medium,First-Time | High Economy | Medium
+28,Female,Australia,2025-08-01,Economy,60,4,38.5,8.39,1,6.5,7,240,286.89,2025-08,Friday,0,18-29,Medium,Repeat | Economy | Medium
+41,Female,Germany,2025-06-27,High Economy,100,2,55.28,21.44,0,6.1,6,200,276.72,2025-06,Friday,0,30-44,Medium,First-Time | High Economy | Medium
+53,Male,USA,2025-07-04,Economy,60,2,22.64,9.86,0,10.0,8,120,152.5,2025-07,Friday,0,45-59,Low,First-Time | Economy | Low
+57,Male,Australia,2025-06-25,Premium,150,2,201.45,10.49,1,9.1,6,300,511.94,2025-06,Wednesday,0,45-59,High,Repeat | Premium | High
+41,Male,Sweden,2025-07-18,Economy,60,1,167.97,31.23,0,7.7,9,60,259.2,2025-07,Friday,0,30-44,Medium,First-Time | Economy | Medium
+20,Male,Japan,2025-07-08,VIP,200,4,19.63,34.44,1,8.0,10,800,854.0699999999999,2025-07,Tuesday,0,18-29,High,Repeat | VIP | High
+39,Male,Sweden,2025-01-02,VIP,200,3,48.16,17.11,0,7.4,8,600,665.27,2025-01,Thursday,0,30-44,High,First-Time | VIP | High
+19,Female,France,2025-01-22,High Economy,100,3,57.6,54.71,0,8.3,7,300,412.31,2025-01,Wednesday,0,18-29,Medium,First-Time | High Economy | Medium
+41,Female,UK,2025-08-06,Economy,60,4,59.44,11.69,0,6.5,8,240,311.13,2025-08,Wednesday,0,30-44,Medium,First-Time | Economy | Medium
+61,Female,France,2025-02-19,Economy,60,2,97.61,68.6,1,9.3,10,120,286.21000000000004,2025-02,Wednesday,0,60+,Medium,Repeat | Economy | Medium
+47,Other,Germany,2025-06-17,VIP,200,3,31.27,42.89,0,8.3,10,600,674.16,2025-06,Tuesday,0,45-59,High,First-Time | VIP | High
+55,Female,USA,2025-04-22,Premium,150,3,68.39,41.68,0,8.3,6,450,560.0699999999999,2025-04,Tuesday,0,45-59,High,First-Time | Premium | High
+19,Female,Germany,2025-06-05,Economy,60,4,43.24,27.79,1,6.7,6,240,311.03000000000003,2025-06,Thursday,0,18-29,Medium,Repeat | Economy | Medium
+38,Female,Japan,2025-03-31,Premium,150,3,13.9,24.69,1,8.8,6,450,488.59,2025-03,Monday,0,30-44,High,Repeat | Premium | High
+50,Male,Australia,2025-04-10,Economy,60,2,81.34,20.07,0,6.7,6,120,221.41,2025-04,Thursday,0,45-59,Low,First-Time | Economy | Low
+29,Male,Sweden,2025-01-17,Economy,60,4,47.91,39.33,0,7.0,8,240,327.23999999999995,2025-01,Friday,0,18-29,Medium,First-Time | Economy | Medium
+39,Male,France,2025-01-14,High Economy,100,2,41.27,36.13,0,8.1,7,200,277.40000000000003,2025-01,Tuesday,0,30-44,Medium,First-Time | High Economy | Medium
+61,Male,France,2025-03-14,Premium,150,3,45.78,22.67,0,10.0,7,450,518.4499999999999,2025-03,Friday,0,60+,High,First-Time | Premium | High
+42,Male,Japan,2025-03-01,High Economy,100,3,82.47,11.66,0,8.3,10,300,394.13000000000005,2025-03,Saturday,1,30-44,Medium,First-Time | High Economy | Medium
+66,Male,France,2025-08-31,Premium,150,2,26.76,3.76,0,4.1,9,300,330.52,2025-08,Sunday,1,60+,Medium,First-Time | Premium | Medium
+44,Female,Japan,2025-04-20,Economy,60,1,15.04,27.82,0,7.0,5,60,102.85999999999999,2025-04,Sunday,1,30-44,Low,First-Time | Economy | Low
+59,Female,Germany,2025-04-09,High Economy,100,3,32.72,18.09,1,9.0,10,300,350.81,2025-04,Wednesday,0,45-59,Medium,Repeat | High Economy | Medium
+45,Male,Sweden,2025-02-04,Economy,60,1,58.66,29.3,1,6.3,9,60,147.96,2025-02,Tuesday,0,45-59,Low,Repeat | Economy | Low
+33,Male,USA,2025-02-01,VIP,200,3,31.32,32.74,0,9.2,9,600,664.0600000000001,2025-02,Saturday,1,30-44,High,First-Time | VIP | High
+32,Male,Australia,2025-05-10,Economy,60,1,64.36,1.12,0,8.2,7,60,125.48,2025-05,Saturday,1,30-44,Low,First-Time | Economy | Low
+64,Female,USA,2025-08-11,High Economy,100,1,68.31,10.83,0,9.5,8,100,179.14000000000001,2025-08,Monday,0,60+,Low,First-Time | High Economy | Low
+68,Female,Germany,2025-06-22,VIP,200,1,43.77,12.2,0,7.2,5,200,255.97,2025-06,Sunday,1,60+,Medium,First-Time | VIP | Medium
+61,Female,Australia,2025-05-04,VIP,200,2,67.38,4.81,1,7.0,9,400,472.19,2025-05,Sunday,1,60+,High,Repeat | VIP | High
+69,Male,France,2025-02-16,Economy,60,1,48.38,23.19,0,8.8,7,60,131.57,2025-02,Sunday,1,60+,Low,First-Time | Economy | Low
+20,Female,UK,2025-02-03,High Economy,100,1,51.72,27.57,0,8.0,7,100,179.29,2025-02,Monday,0,18-29,Low,First-Time | High Economy | Low
+54,Other,Germany,2025-06-14,Economy,60,1,66.15,19.6,0,7.9,7,60,145.75,2025-06,Saturday,1,45-59,Low,First-Time | Economy | Low
+68,Male,Germany,2025-03-12,VIP,200,3,53.82,4.3,0,10.0,10,600,658.12,2025-03,Wednesday,0,60+,High,First-Time | VIP | High
+24,Female,Sweden,2025-07-23,VIP,200,1,12.34,25.09,0,8.9,7,200,237.43,2025-07,Wednesday,0,18-29,Low,First-Time | VIP | Low
+38,Female,USA,2025-04-21,High Economy,100,3,149.42,11.66,0,5.0,9,300,461.08,2025-04,Monday,0,30-44,High,First-Time | High Economy | High
+26,Female,Germany,2025-03-27,Premium,150,1,54.76,10.64,0,9.2,8,150,215.39999999999998,2025-03,Thursday,0,18-29,Low,First-Time | Premium | Low
+56,Male,Germany,2025-08-11,High Economy,100,1,24.55,34.62,0,9.0,7,100,159.17,2025-08,Monday,0,45-59,Low,First-Time | High Economy | Low
+35,Female,France,2025-05-31,Economy,60,2,68.84,48.31,1,9.8,7,120,237.15,2025-05,Saturday,1,30-44,Low,Repeat | Economy | Low
+21,Female,France,2025-07-30,Economy,60,3,154.3,26.13,1,6.6,7,180,360.43,2025-07,Wednesday,0,18-29,Medium,Repeat | Economy | Medium
+42,Female,Australia,2025-08-21,Economy,60,1,29.41,11.76,0,8.5,8,60,101.17,2025-08,Thursday,0,30-44,Low,First-Time | Economy | Low
+31,Other,Japan,2025-01-31,Economy,60,3,178.46,13.98,0,8.2,9,180,372.44000000000005,2025-01,Friday,0,30-44,Medium,First-Time | Economy | Medium
+67,Female,Japan,2025-07-06,Premium,150,3,86.2,29.4,0,6.6,7,450,565.6,2025-07,Sunday,1,60+,High,First-Time | Premium | High
+26,Other,UK,2025-03-30,High Economy,100,4,9.39,3.32,0,9.4,7,400,412.71,2025-03,Sunday,1,18-29,Medium,First-Time | High Economy | Medium
+43,Female,Japan,2025-03-21,High Economy,100,2,186.79,80.65,0,7.6,7,200,467.43999999999994,2025-03,Friday,0,30-44,High,First-Time | High Economy | High
+19,Female,Sweden,2025-08-04,Economy,60,2,9.48,17.52,0,9.7,6,120,147.0,2025-08,Monday,0,18-29,Low,First-Time | Economy | Low
+37,Female,UK,2025-05-29,VIP,200,2,56.85,16.56,0,6.9,6,400,473.41,2025-05,Thursday,0,30-44,High,First-Time | VIP | High
+45,Male,Australia,2025-09-08,High Economy,100,4,44.99,16.32,0,5.8,10,400,461.31,2025-09,Monday,0,45-59,High,First-Time | High Economy | High
+64,Female,France,2025-08-24,VIP,200,4,20.26,7.74,0,7.6,7,800,828.0,2025-08,Sunday,1,60+,High,First-Time | VIP | High
+24,Female,Japan,2025-06-30,High Economy,100,2,76.91,35.46,0,8.3,7,200,312.36999999999995,2025-06,Monday,0,18-29,Medium,First-Time | High Economy | Medium
+61,Female,USA,2025-07-05,Economy,60,4,119.14,22.67,1,7.2,7,240,381.81,2025-07,Saturday,1,60+,Medium,Repeat | Economy | Medium
+25,Other,France,2025-07-14,Economy,60,4,13.3,2.52,0,3.4,8,240,255.82000000000002,2025-07,Monday,0,18-29,Medium,First-Time | Economy | Medium
+64,Male,Sweden,2025-08-07,Premium,150,4,136.56,23.71,0,8.6,9,600,760.27,2025-08,Thursday,0,60+,High,First-Time | Premium | High
+52,Female,France,2025-07-10,Economy,60,2,85.47,30.52,0,8.6,7,120,235.99,2025-07,Thursday,0,45-59,Low,First-Time | Economy | Low
+31,Female,Sweden,2025-02-04,High Economy,100,2,130.47,26.68,1,9.0,8,200,357.15000000000003,2025-02,Tuesday,0,30-44,Medium,Repeat | High Economy | Medium
+34,Female,Sweden,2025-03-04,VIP,200,2,49.04,23.29,1,7.4,10,400,472.33000000000004,2025-03,Tuesday,0,30-44,High,Repeat | VIP | High
+53,Female,Sweden,2025-04-28,Premium,150,4,183.93,40.01,1,7.3,7,600,823.94,2025-04,Monday,0,45-59,High,Repeat | Premium | High
+67,Female,Australia,2025-04-07,Premium,150,2,64.83,12.34,0,10.0,7,300,377.16999999999996,2025-04,Monday,0,60+,Medium,First-Time | Premium | Medium
+57,Female,Sweden,2025-01-09,VIP,200,4,62.45,16.14,0,5.6,9,800,878.59,2025-01,Thursday,0,45-59,High,First-Time | VIP | High
+21,Male,Sweden,2025-01-11,Economy,60,1,60.93,6.59,1,7.6,10,60,127.52000000000001,2025-01,Saturday,1,18-29,Low,Repeat | Economy | Low
+19,Male,USA,2025-04-23,High Economy,100,4,11.15,70.84,0,8.2,6,400,481.99,2025-04,Wednesday,0,18-29,High,First-Time | High Economy | High
+23,Female,UK,2025-08-17,Economy,60,3,76.36,5.85,0,8.9,5,180,262.21000000000004,2025-08,Sunday,1,18-29,Medium,First-Time | Economy | Medium
+59,Male,Germany,2025-03-31,Premium,150,2,17.79,26.67,1,8.3,8,300,344.46000000000004,2025-03,Monday,0,45-59,Medium,Repeat | Premium | Medium
+21,Male,UK,2025-07-11,VIP,200,2,20.99,11.33,0,6.6,8,400,432.32,2025-07,Friday,0,18-29,High,First-Time | VIP | High
+46,Female,Sweden,2025-05-22,High Economy,100,3,6.84,16.47,0,9.8,9,300,323.30999999999995,2025-05,Thursday,0,45-59,Medium,First-Time | High Economy | Medium
+35,Male,USA,2025-06-20,VIP,200,4,8.6,0.98,0,8.0,9,800,809.58,2025-06,Friday,0,30-44,High,First-Time | VIP | High
+43,Female,France,2025-01-03,High Economy,100,1,117.42,27.64,0,5.5,8,100,245.06,2025-01,Friday,0,30-44,Low,First-Time | High Economy | Low
+61,Female,USA,2025-08-16,Economy,60,3,44.99,66.32,0,8.3,10,180,291.31,2025-08,Saturday,1,60+,Medium,First-Time | Economy | Medium
+51,Female,Sweden,2025-06-22,High Economy,100,3,63.91,27.11,0,8.7,7,300,391.02,2025-06,Sunday,1,45-59,Medium,First-Time | High Economy | Medium
+27,Male,USA,2025-04-29,High Economy,100,4,98.22,0.41,1,10.0,8,400,498.63000000000005,2025-04,Tuesday,0,18-29,High,Repeat | High Economy | High
+53,Female,Japan,2025-05-15,Premium,150,2,26.14,22.76,0,8.6,6,300,348.9,2025-05,Thursday,0,45-59,Medium,First-Time | Premium | Medium
+31,Male,USA,2025-01-21,VIP,200,4,30.28,4.43,1,5.8,8,800,834.7099999999999,2025-01,Tuesday,0,30-44,High,Repeat | VIP | High
+48,Female,Sweden,2025-09-06,VIP,200,3,104.21,5.6,0,5.8,6,600,709.8100000000001,2025-09,Saturday,1,45-59,High,First-Time | VIP | High
+65,Male,Australia,2025-07-04,High Economy,100,3,35.42,26.55,0,9.9,6,300,361.97,2025-07,Friday,0,60+,Medium,First-Time | High Economy | Medium
+32,Female,Japan,2025-04-27,VIP,200,2,123.52,22.92,1,6.8,10,400,546.4399999999999,2025-04,Sunday,1,30-44,High,Repeat | VIP | High
+25,Female,USA,2025-04-30,Premium,150,2,49.92,28.97,1,5.7,5,300,378.89,2025-04,Wednesday,0,18-29,Medium,Repeat | Premium | Medium
+31,Other,Germany,2025-08-10,High Economy,100,2,117.22,23.06,0,9.5,8,200,340.28000000000003,2025-08,Sunday,1,30-44,Medium,First-Time | High Economy | Medium
+40,Female,Germany,2025-07-08,Premium,150,4,36.16,17.01,1,7.3,9,600,653.17,2025-07,Tuesday,0,30-44,High,Repeat | Premium | High
+57,Male,USA,2025-06-14,Premium,150,2,125.94,28.04,1,9.4,10,300,453.98,2025-06,Saturday,1,45-59,High,Repeat | Premium | High
+38,Female,Australia,2025-01-14,Premium,150,3,14.81,3.52,1,6.6,8,450,468.33,2025-01,Tuesday,0,30-44,High,Repeat | Premium | High
+33,Male,France,2025-07-28,Economy,60,3,68.43,33.73,0,10.0,8,180,282.16,2025-07,Monday,0,30-44,Medium,First-Time | Economy | Medium
+62,Male,Sweden,2025-07-11,High Economy,100,1,33.82,4.59,1,9.3,8,100,138.41,2025-07,Friday,0,60+,Low,Repeat | High Economy | Low
+35,Male,Germany,2025-09-05,High Economy,100,4,48.83,22.19,1,6.9,10,400,471.02,2025-09,Friday,0,30-44,High,Repeat | High Economy | High
+64,Female,France,2025-06-25,VIP,200,1,84.34,41.46,1,5.5,9,200,325.8,2025-06,Wednesday,0,60+,Medium,Repeat | VIP | Medium
+41,Female,USA,2025-03-25,Economy,60,3,44.1,6.14,0,10.0,7,180,230.23999999999998,2025-03,Tuesday,0,30-44,Low,First-Time | Economy | Low
+43,Male,France,2025-05-17,High Economy,100,1,91.02,29.71,0,7.7,10,100,220.73,2025-05,Saturday,1,30-44,Low,First-Time | High Economy | Low
+42,Female,Japan,2025-07-07,Premium,150,3,97.02,27.13,0,6.9,7,450,574.15,2025-07,Monday,0,30-44,High,First-Time | Premium | High
+62,Male,UK,2025-05-22,Economy,60,1,46.07,18.75,0,10.0,6,60,124.82,2025-05,Thursday,0,60+,Low,First-Time | Economy | Low
+58,Male,Germany,2025-08-06,Premium,150,2,86.69,2.43,1,9.4,6,300,389.12,2025-08,Wednesday,0,45-59,Medium,Repeat | Premium | Medium
+46,Male,USA,2025-02-03,High Economy,100,1,40.21,22.55,0,9.8,8,100,162.76000000000002,2025-02,Monday,0,45-59,Low,First-Time | High Economy | Low
+32,Male,Sweden,2025-02-12,High Economy,100,2,56.27,19.32,0,7.9,8,200,275.59,2025-02,Wednesday,0,30-44,Medium,First-Time | High Economy | Medium
+62,Female,Australia,2025-04-18,Premium,150,2,77.84,31.16,1,10.0,9,300,409.00000000000006,2025-04,Friday,0,60+,Medium,Repeat | Premium | Medium
+18,Female,Japan,2025-03-05,Economy,60,4,31.15,6.28,0,6.0,9,240,277.42999999999995,2025-03,Wednesday,0,18-29,Medium,First-Time | Economy | Medium
+42,Female,USA,2025-07-29,Economy,60,2,12.86,40.04,0,7.2,8,120,172.9,2025-07,Tuesday,0,30-44,Low,First-Time | Economy | Low
+24,Male,Sweden,2025-05-06,High Economy,100,2,25.45,18.42,0,8.6,10,200,243.87,2025-05,Tuesday,0,18-29,Low,First-Time | High Economy | Low
+26,Male,Australia,2025-01-09,Premium,150,1,33.78,15.68,0,9.8,8,150,199.46,2025-01,Thursday,0,18-29,Low,First-Time | Premium | Low
+41,Male,Australia,2025-01-22,VIP,200,3,101.63,41.37,0,9.0,6,600,743.0,2025-01,Wednesday,0,30-44,High,First-Time | VIP | High
+18,Female,USA,2025-05-02,Premium,150,4,38.46,33.88,1,7.9,6,600,672.34,2025-05,Friday,0,18-29,High,Repeat | Premium | High
+61,Male,Japan,2025-01-11,Economy,60,2,87.99,33.44,0,7.3,10,120,241.43,2025-01,Saturday,1,60+,Low,First-Time | Economy | Low
+25,Female,France,2025-01-16,Premium,150,4,3.21,8.05,0,9.8,5,600,611.26,2025-01,Thursday,0,18-29,High,First-Time | Premium | High
+41,Other,France,2025-02-23,High Economy,100,1,19.04,25.39,0,9.1,8,100,144.43,2025-02,Sunday,1,30-44,Low,First-Time | High Economy | Low
+28,Female,Australia,2025-04-14,Economy,60,2,35.54,3.43,0,6.7,10,120,158.97,2025-04,Monday,0,18-29,Low,First-Time | Economy | Low
+68,Other,France,2025-07-19,VIP,200,1,130.67,9.49,0,6.6,9,200,340.15999999999997,2025-07,Saturday,1,60+,Medium,First-Time | VIP | Medium
+34,Male,UK,2025-02-18,High Economy,100,4,56.5,10.14,0,7.2,8,400,466.64,2025-02,Tuesday,0,30-44,High,First-Time | High Economy | High
+25,Female,Australia,2025-08-24,VIP,200,1,20.66,28.59,0,7.0,6,200,249.25,2025-08,Sunday,1,18-29,Low,First-Time | VIP | Low
+52,Female,Australia,2025-08-17,Economy,60,4,7.86,36.69,1,9.5,10,240,284.55,2025-08,Sunday,1,45-59,Medium,Repeat | Economy | Medium
+52,Female,Sweden,2025-01-19,High Economy,100,1,63.15,16.95,0,8.7,10,100,180.1,2025-01,Sunday,1,45-59,Low,First-Time | High Economy | Low
+50,Male,France,2025-07-07,Premium,150,4,23.04,13.69,0,8.8,9,600,636.73,2025-07,Monday,0,45-59,High,First-Time | Premium | High
+22,Male,Japan,2025-08-11,Premium,150,3,28.3,30.45,1,8.3,8,450,508.75,2025-08,Monday,0,18-29,High,Repeat | Premium | High
+59,Male,Australia,2025-05-11,High Economy,100,1,19.98,18.73,0,8.4,9,100,138.71,2025-05,Sunday,1,45-59,Low,First-Time | High Economy | Low
+56,Female,Japan,2025-04-24,Economy,60,1,23.38,18.57,0,5.6,8,60,101.94999999999999,2025-04,Thursday,0,45-59,Low,First-Time | Economy | Low
+58,Female,UK,2025-05-04,Economy,60,3,15.97,10.08,0,9.2,7,180,206.05,2025-05,Sunday,1,45-59,Low,First-Time | Economy | Low
+45,Female,Sweden,2025-03-19,High Economy,100,3,48.5,18.95,0,7.2,9,300,367.45,2025-03,Wednesday,0,45-59,Medium,First-Time | High Economy | Medium
+24,Male,USA,2025-05-06,VIP,200,1,59.12,6.63,0,8.0,8,200,265.75,2025-05,Tuesday,0,18-29,Medium,First-Time | VIP | Medium
+26,Female,Japan,2025-02-16,Premium,150,3,23.85,10.81,0,7.3,9,450,484.66,2025-02,Sunday,1,18-29,High,First-Time | Premium | High
+25,Male,Australia,2025-04-16,VIP,200,2,150.57,44.46,0,8.2,8,400,595.03,2025-04,Wednesday,0,18-29,High,First-Time | VIP | High
+29,Male,UK,2025-05-14,High Economy,100,4,73.47,15.04,0,8.9,9,400,488.51000000000005,2025-05,Wednesday,0,18-29,High,First-Time | High Economy | High
+51,Male,Germany,2025-04-17,Economy,60,4,6.04,27.76,0,6.5,8,240,273.8,2025-04,Thursday,0,45-59,Medium,First-Time | Economy | Medium
+50,Female,UK,2025-01-08,High Economy,100,4,55.34,10.67,0,8.4,8,400,466.01000000000005,2025-01,Wednesday,0,45-59,High,First-Time | High Economy | High
+65,Male,UK,2025-01-24,Premium,150,2,62.61,43.23,1,7.3,8,300,405.84000000000003,2025-01,Friday,0,60+,Medium,Repeat | Premium | Medium
+40,Female,Sweden,2025-05-26,High Economy,100,3,65.03,14.6,1,10.0,10,300,379.63,2025-05,Monday,0,30-44,Medium,Repeat | High Economy | Medium
+41,Female,USA,2025-03-30,Economy,60,3,48.28,43.89,1,6.3,9,180,272.17,2025-03,Sunday,1,30-44,Medium,Repeat | Economy | Medium
+54,Male,Germany,2025-06-29,Economy,60,1,84.99,8.42,0,6.5,10,60,153.41,2025-06,Sunday,1,45-59,Low,First-Time | Economy | Low
+52,Female,France,2025-03-23,Economy,60,3,106.41,11.85,0,7.5,8,180,298.26,2025-03,Sunday,1,45-59,Medium,First-Time | Economy | Medium
+61,Male,France,2025-05-22,Premium,150,1,73.83,13.53,0,6.6,8,150,237.35999999999999,2025-05,Thursday,0,60+,Low,First-Time | Premium | Low
+57,Male,Japan,2025-02-04,Premium,150,2,121.53,12.16,0,7.7,6,300,433.69,2025-02,Tuesday,0,45-59,High,First-Time | Premium | High
+39,Female,UK,2025-07-14,Economy,60,4,95.8,31.32,0,7.2,10,240,367.12,2025-07,Monday,0,30-44,Medium,First-Time | Economy | Medium
+44,Male,Sweden,2025-02-10,High Economy,100,4,41.84,31.04,0,8.1,7,400,472.88000000000005,2025-02,Monday,0,30-44,High,First-Time | High Economy | High
+52,Female,Sweden,2025-08-31,Premium,150,4,64.81,20.43,0,9.5,10,600,685.2399999999999,2025-08,Sunday,1,45-59,High,First-Time | Premium | High
+18,Female,France,2025-08-31,Economy,60,3,75.84,27.56,0,8.1,7,180,283.4,2025-08,Sunday,1,18-29,Medium,First-Time | Economy | Medium
+52,Female,Japan,2025-08-25,Economy,60,1,103.57,83.29,1,8.2,9,60,246.86,2025-08,Monday,0,45-59,Low,Repeat | Economy | Low
+54,Female,Japan,2025-05-21,High Economy,100,1,46.25,23.3,0,6.4,6,100,169.55,2025-05,Wednesday,0,45-59,Low,First-Time | High Economy | Low
+64,Female,Japan,2025-06-27,High Economy,100,2,61.04,30.42,0,7.8,7,200,291.46000000000004,2025-06,Friday,0,60+,Medium,First-Time | High Economy | Medium
+31,Female,Germany,2025-03-28,Premium,150,3,7.57,8.76,0,7.4,8,450,466.33,2025-03,Friday,0,30-44,High,First-Time | Premium | High
+20,Female,USA,2025-07-08,High Economy,100,2,35.59,10.7,0,9.0,7,200,246.29,2025-07,Tuesday,0,18-29,Low,First-Time | High Economy | Low
+18,Male,Germany,2025-02-17,High Economy,100,1,2.09,5.26,0,6.9,8,100,107.35000000000001,2025-02,Monday,0,18-29,Low,First-Time | High Economy | Low
+22,Male,Australia,2025-08-01,Economy,60,1,22.68,19.02,0,6.7,8,60,101.7,2025-08,Friday,0,18-29,Low,First-Time | Economy | Low
+43,Female,Australia,2025-04-15,Economy,60,4,28.2,17.76,0,8.5,9,240,285.96,2025-04,Tuesday,0,30-44,Medium,First-Time | Economy | Medium
+31,Female,USA,2025-06-13,Economy,60,3,75.58,3.74,1,10.0,5,180,259.32,2025-06,Friday,0,30-44,Medium,Repeat | Economy | Medium
+56,Male,France,2025-05-28,VIP,200,1,26.25,19.95,1,7.7,7,200,246.2,2025-05,Wednesday,0,45-59,Low,Repeat | VIP | Low
+44,Female,USA,2025-07-08,Economy,60,4,48.6,22.38,1,8.3,10,240,310.98,2025-07,Tuesday,0,30-44,Medium,Repeat | Economy | Medium
+26,Male,Sweden,2025-02-17,Economy,60,3,65.09,34.58,1,9.4,9,180,279.67,2025-02,Monday,0,18-29,Medium,Repeat | Economy | Medium
+32,Other,Australia,2025-03-26,High Economy,100,2,47.45,12.85,0,8.8,10,200,260.3,2025-03,Wednesday,0,30-44,Medium,First-Time | High Economy | Medium
+32,Male,UK,2025-02-08,Economy,60,3,30.97,28.79,0,8.8,9,180,239.76,2025-02,Saturday,1,30-44,Low,First-Time | Economy | Low
+43,Male,UK,2025-02-02,Economy,60,3,136.96,26.21,0,7.9,6,180,343.17,2025-02,Sunday,1,30-44,Medium,First-Time | Economy | Medium
+59,Male,France,2025-06-26,High Economy,100,1,88.45,25.9,0,7.9,9,100,214.35,2025-06,Thursday,0,45-59,Low,First-Time | High Economy | Low
+30,Female,Sweden,2025-02-03,High Economy,100,1,45.12,7.84,0,6.9,8,100,152.96,2025-02,Monday,0,30-44,Low,First-Time | High Economy | Low
+68,Female,Germany,2025-05-20,VIP,200,3,36.2,15.62,1,8.7,10,600,651.82,2025-05,Tuesday,0,60+,High,Repeat | VIP | High
+49,Male,Sweden,2025-06-13,Premium,150,1,63.25,37.71,0,8.7,9,150,250.96,2025-06,Friday,0,45-59,Medium,First-Time | Premium | Medium
+56,Female,UK,2025-06-28,High Economy,100,1,62.8,31.39,0,9.1,9,100,194.19,2025-06,Saturday,1,45-59,Low,First-Time | High Economy | Low
+66,Male,UK,2025-07-06,Economy,60,1,54.13,4.01,0,7.3,9,60,118.14,2025-07,Sunday,1,60+,Low,First-Time | Economy | Low
+69,Female,Australia,2025-05-18,Premium,150,4,30.76,26.81,1,9.2,9,600,657.5699999999999,2025-05,Sunday,1,60+,High,Repeat | Premium | High
+49,Male,Sweden,2025-02-23,VIP,200,4,4.28,3.28,0,9.7,9,800,807.56,2025-02,Sunday,1,45-59,High,First-Time | VIP | High
+21,Male,Sweden,2025-05-07,High Economy,100,3,62.75,12.81,1,6.2,8,300,375.56,2025-05,Wednesday,0,18-29,Medium,Repeat | High Economy | Medium
+47,Female,UK,2025-01-23,VIP,200,1,24.95,22.36,1,7.6,9,200,247.31,2025-01,Thursday,0,45-59,Low,Repeat | VIP | Low
+54,Other,Germany,2025-08-19,Premium,150,4,133.98,22.97,1,9.8,9,600,756.95,2025-08,Tuesday,0,45-59,High,Repeat | Premium | High
+40,Female,France,2025-04-15,VIP,200,3,18.37,3.77,1,7.0,10,600,622.14,2025-04,Tuesday,0,30-44,High,Repeat | VIP | High
+56,Female,Japan,2025-08-21,Premium,150,1,37.57,7.54,1,8.8,9,150,195.10999999999999,2025-08,Thursday,0,45-59,Low,Repeat | Premium | Low
+62,Other,France,2025-01-04,Premium,150,2,131.2,49.78,0,8.0,10,300,480.98,2025-01,Saturday,1,60+,High,First-Time | Premium | High
+32,Male,Sweden,2025-05-19,Premium,150,1,37.38,5.31,0,8.5,10,150,192.69,2025-05,Monday,0,30-44,Low,First-Time | Premium | Low
+60,Other,France,2025-03-05,High Economy,100,1,25.14,9.8,0,8.1,9,100,134.94,2025-03,Wednesday,0,60+,Low,First-Time | High Economy | Low
+46,Female,UK,2025-04-13,Economy,60,4,103.37,0.27,0,9.1,6,240,343.64,2025-04,Sunday,1,45-59,Medium,First-Time | Economy | Medium
+53,Female,UK,2025-03-15,High Economy,100,3,124.0,56.2,1,6.5,6,300,480.2,2025-03,Saturday,1,45-59,High,Repeat | High Economy | High
+30,Female,Sweden,2025-01-10,Economy,60,3,8.11,6.29,0,6.6,8,180,194.4,2025-01,Friday,0,30-44,Low,First-Time | Economy | Low
+49,Female,Sweden,2025-02-11,VIP,200,4,96.11,7.82,1,10.0,8,800,903.9300000000001,2025-02,Tuesday,0,45-59,High,Repeat | VIP | High
+24,Female,Japan,2025-03-15,Premium,150,1,91.28,3.27,0,10.0,10,150,244.55,2025-03,Saturday,1,18-29,Low,First-Time | Premium | Low
+68,Female,Japan,2025-03-14,Economy,60,2,43.85,15.01,0,8.0,4,120,178.85999999999999,2025-03,Friday,0,60+,Low,First-Time | Economy | Low
+39,Female,Australia,2025-07-04,VIP,200,1,18.72,12.3,1,10.0,7,200,231.02,2025-07,Friday,0,30-44,Low,Repeat | VIP | Low
+45,Male,Sweden,2025-04-26,High Economy,100,1,137.35,43.2,0,6.8,8,100,280.55,2025-04,Saturday,1,45-59,Medium,First-Time | High Economy | Medium
+19,Other,Germany,2025-06-08,High Economy,100,2,4.28,40.37,0,7.2,7,200,244.65,2025-06,Sunday,1,18-29,Low,First-Time | High Economy | Low
+59,Female,France,2025-06-23,High Economy,100,4,24.66,59.94,0,10.0,7,400,484.6,2025-06,Monday,0,45-59,High,First-Time | High Economy | High
+62,Male,Sweden,2025-07-24,VIP,200,3,84.16,25.18,0,9.2,7,600,709.3399999999999,2025-07,Thursday,0,60+,High,First-Time | VIP | High
+23,Female,USA,2025-07-06,Premium,150,4,8.06,6.03,0,10.0,7,600,614.0899999999999,2025-07,Sunday,1,18-29,High,First-Time | Premium | High
+45,Female,Australia,2025-01-08,High Economy,100,4,39.46,16.25,0,8.7,7,400,455.71,2025-01,Wednesday,0,45-59,High,First-Time | High Economy | High
+45,Female,USA,2025-03-24,VIP,200,1,44.18,7.67,0,6.5,10,200,251.85,2025-03,Monday,0,45-59,Medium,First-Time | VIP | Medium
+61,Female,UK,2025-03-15,High Economy,100,3,119.72,4.22,1,8.3,9,300,423.94000000000005,2025-03,Saturday,1,60+,High,Repeat | High Economy | High
+61,Male,Japan,2025-06-28,Economy,60,3,84.45,52.28,1,9.8,9,180,316.73,2025-06,Saturday,1,60+,Medium,Repeat | Economy | Medium
+37,Female,France,2025-04-05,Economy,60,4,88.75,29.22,0,7.8,8,240,357.97,2025-04,Saturday,1,30-44,Medium,First-Time | Economy | Medium
+47,Other,Sweden,2025-08-09,Premium,150,2,8.83,26.3,0,7.6,10,300,335.13,2025-08,Saturday,1,45-59,Medium,First-Time | Premium | Medium
+28,Male,USA,2025-01-10,Economy,60,4,40.61,3.27,1,8.7,9,240,283.88,2025-01,Friday,0,18-29,Medium,Repeat | Economy | Medium
+45,Female,France,2025-02-09,High Economy,100,2,69.32,20.71,0,7.2,9,200,290.03,2025-02,Sunday,1,45-59,Medium,First-Time | High Economy | Medium
+42,Male,UK,2025-03-15,Premium,150,3,106.57,12.43,0,8.4,7,450,568.9999999999999,2025-03,Saturday,1,30-44,High,First-Time | Premium | High
+56,Female,Japan,2025-08-09,VIP,200,4,13.69,18.68,0,8.1,7,800,832.37,2025-08,Saturday,1,45-59,High,First-Time | VIP | High
+50,Female,Germany,2025-03-06,Economy,60,1,38.52,2.0,1,7.3,10,60,100.52000000000001,2025-03,Thursday,0,45-59,Low,Repeat | Economy | Low
+18,Female,Australia,2025-03-21,Premium,150,4,165.31,24.92,0,9.5,7,600,790.2299999999999,2025-03,Friday,0,18-29,High,First-Time | Premium | High
+44,Male,France,2025-07-09,Premium,150,3,26.9,1.45,0,9.0,6,450,478.34999999999997,2025-07,Wednesday,0,30-44,High,First-Time | Premium | High
+69,Female,France,2025-07-25,VIP,200,1,76.61,14.8,0,7.5,7,200,291.41,2025-07,Friday,0,60+,Medium,First-Time | VIP | Medium
+30,Male,Germany,2025-07-11,Economy,60,1,93.29,21.19,0,8.0,10,60,174.48000000000002,2025-07,Friday,0,30-44,Low,First-Time | Economy | Low
+58,Male,France,2025-06-05,Economy,60,2,77.15,29.11,0,7.6,7,120,226.26,2025-06,Thursday,0,45-59,Low,First-Time | Economy | Low
+20,Male,UK,2025-07-19,Economy,60,1,102.18,22.56,0,7.0,9,60,184.74,2025-07,Saturday,1,18-29,Low,First-Time | Economy | Low
+56,Male,UK,2025-01-24,Premium,150,1,8.14,26.11,1,5.5,7,150,184.25,2025-01,Friday,0,45-59,Low,Repeat | Premium | Low
+23,Female,Germany,2025-08-07,Premium,150,4,79.03,22.06,1,7.3,9,600,701.0899999999999,2025-08,Thursday,0,18-29,High,Repeat | Premium | High
+25,Female,Australia,2025-06-20,High Economy,100,3,42.97,7.89,0,7.1,9,300,350.86,2025-06,Friday,0,18-29,Medium,First-Time | High Economy | Medium
+44,Female,Sweden,2025-03-22,High Economy,100,2,48.59,3.2,0,8.2,6,200,251.79,2025-03,Saturday,1,30-44,Medium,First-Time | High Economy | Medium
+26,Male,USA,2025-01-24,Premium,150,4,59.87,37.33,0,8.7,8,600,697.2,2025-01,Friday,0,18-29,High,First-Time | Premium | High
+54,Female,Sweden,2025-07-09,High Economy,100,1,71.19,46.14,1,6.8,6,100,217.32999999999998,2025-07,Wednesday,0,45-59,Low,Repeat | High Economy | Low
+50,Female,France,2025-06-04,Economy,60,1,42.49,14.26,1,8.6,7,60,116.75000000000001,2025-06,Wednesday,0,45-59,Low,Repeat | Economy | Low
+68,Male,USA,2025-07-22,Economy,60,2,50.19,9.42,0,6.6,8,120,179.60999999999999,2025-07,Tuesday,0,60+,Low,First-Time | Economy | Low
+59,Other,Germany,2025-06-12,Economy,60,3,9.42,1.95,0,7.8,10,180,191.36999999999998,2025-06,Thursday,0,45-59,Low,First-Time | Economy | Low
+61,Other,Germany,2025-05-31,Economy,60,2,11.87,10.99,1,7.1,9,120,142.86,2025-05,Saturday,1,60+,Low,Repeat | Economy | Low
+41,Male,Australia,2025-03-25,Premium,150,4,92.66,8.56,0,9.1,7,600,701.2199999999999,2025-03,Tuesday,0,30-44,High,First-Time | Premium | High
+32,Male,USA,2025-05-24,High Economy,100,2,110.37,5.02,0,8.2,8,200,315.39,2025-05,Saturday,1,30-44,Medium,First-Time | High Economy | Medium
+49,Other,UK,2025-05-04,Economy,60,1,102.98,39.22,0,7.8,9,60,202.20000000000002,2025-05,Sunday,1,45-59,Low,First-Time | Economy | Low
+49,Female,USA,2025-05-17,Premium,150,4,58.11,26.61,0,7.1,7,600,684.72,2025-05,Saturday,1,45-59,High,First-Time | Premium | High
+41,Male,France,2025-04-30,Economy,60,1,134.77,27.0,0,7.5,10,60,221.77,2025-04,Wednesday,0,30-44,Low,First-Time | Economy | Low
+58,Female,UK,2025-03-08,High Economy,100,3,122.71,15.01,1,10.0,7,300,437.71999999999997,2025-03,Saturday,1,45-59,High,Repeat | High Economy | High
+69,Female,Japan,2025-06-10,High Economy,100,1,108.48,7.02,0,7.2,7,100,215.50000000000003,2025-06,Tuesday,0,60+,Low,First-Time | High Economy | Low
+66,Female,Japan,2025-06-14,High Economy,100,1,49.29,18.74,0,8.7,7,100,168.03,2025-06,Saturday,1,60+,Low,First-Time | High Economy | Low
+66,Female,Japan,2025-03-09,Economy,60,2,79.87,17.51,0,7.8,6,120,217.38,2025-03,Sunday,1,60+,Low,First-Time | Economy | Low
+69,Female,Germany,2025-07-17,Economy,60,1,50.23,3.08,0,8.7,5,60,113.30999999999999,2025-07,Thursday,0,60+,Low,First-Time | Economy | Low
+29,Male,USA,2025-05-27,VIP,200,4,58.24,27.06,0,9.3,8,800,885.3,2025-05,Tuesday,0,18-29,High,First-Time | VIP | High
+56,Male,Japan,2025-08-04,Economy,60,4,79.76,16.42,0,7.5,8,240,336.18,2025-08,Monday,0,45-59,Medium,First-Time | Economy | Medium
+19,Female,Sweden,2025-04-17,Premium,150,3,141.74,17.54,1,9.1,8,450,609.28,2025-04,Thursday,0,18-29,High,Repeat | Premium | High
+20,Other,Australia,2025-04-20,Premium,150,4,65.05,9.77,0,10.0,8,600,674.8199999999999,2025-04,Sunday,1,18-29,High,First-Time | Premium | High
+66,Male,Sweden,2025-03-25,High Economy,100,2,14.31,12.9,0,8.9,10,200,227.21,2025-03,Tuesday,0,60+,Low,First-Time | High Economy | Low
+54,Female,Japan,2025-04-06,High Economy,100,3,196.25,27.22,0,10.0,8,300,523.47,2025-04,Sunday,1,45-59,High,First-Time | High Economy | High
+66,Female,Australia,2025-02-16,High Economy,100,4,43.38,48.09,0,8.7,6,400,491.47,2025-02,Sunday,1,60+,High,First-Time | High Economy | High
+34,Female,France,2025-08-05,Economy,60,2,15.21,49.39,1,6.6,6,120,184.60000000000002,2025-08,Tuesday,0,30-44,Low,Repeat | Economy | Low
+66,Female,Sweden,2025-06-10,Economy,60,4,60.02,12.17,0,8.4,8,240,312.19,2025-06,Tuesday,0,60+,Medium,First-Time | Economy | Medium
+19,Female,USA,2025-09-02,High Economy,100,4,83.27,15.63,1,7.5,7,400,498.9,2025-09,Tuesday,0,18-29,High,Repeat | High Economy | High
+19,Female,USA,2025-04-08,VIP,200,1,111.31,35.09,0,7.1,6,200,346.4,2025-04,Tuesday,0,18-29,Medium,First-Time | VIP | Medium
+45,Female,Sweden,2025-07-23,Economy,60,4,62.53,8.32,1,7.9,8,240,310.84999999999997,2025-07,Wednesday,0,45-59,Medium,Repeat | Economy | Medium
+40,Male,Japan,2025-05-29,Economy,60,4,35.45,5.09,0,7.8,8,240,280.53999999999996,2025-05,Thursday,0,30-44,Medium,First-Time | Economy | Medium
+54,Female,USA,2025-07-30,Economy,60,2,60.28,19.08,0,6.4,10,120,199.36,2025-07,Wednesday,0,45-59,Low,First-Time | Economy | Low
+49,Male,France,2025-06-15,VIP,200,2,58.44,22.94,0,10.0,7,400,481.38,2025-06,Sunday,1,45-59,High,First-Time | VIP | High
+50,Male,UK,2025-04-09,VIP,200,1,84.4,17.07,0,9.2,7,200,301.46999999999997,2025-04,Wednesday,0,45-59,Medium,First-Time | VIP | Medium
+18,Female,Japan,2025-08-26,Premium,150,4,51.63,11.7,1,8.4,10,600,663.33,2025-08,Tuesday,0,18-29,High,Repeat | Premium | High
+36,Male,France,2025-07-13,VIP,200,1,229.39,22.68,1,8.1,9,200,452.07,2025-07,Sunday,1,30-44,High,Repeat | VIP | High
+19,Male,Australia,2025-04-16,Premium,150,4,113.22,12.79,0,9.8,7,600,726.01,2025-04,Wednesday,0,18-29,High,First-Time | Premium | High
+61,Female,France,2025-03-08,Economy,60,3,32.93,15.7,0,10.0,7,180,228.63,2025-03,Saturday,1,60+,Low,First-Time | Economy | Low
+43,Male,Japan,2025-03-15,High Economy,100,3,30.09,14.83,0,9.0,6,300,344.91999999999996,2025-03,Saturday,1,30-44,Medium,First-Time | High Economy | Medium
+49,Male,Australia,2025-02-13,VIP,200,1,29.18,20.33,1,8.2,8,200,249.51,2025-02,Thursday,0,45-59,Low,Repeat | VIP | Low
+23,Female,Japan,2025-02-18,Premium,150,1,76.11,9.64,0,10.0,10,150,235.75,2025-02,Tuesday,0,18-29,Low,First-Time | Premium | Low
+49,Female,USA,2025-03-30,VIP,200,1,56.34,19.06,0,8.2,10,200,275.40000000000003,2025-03,Sunday,1,45-59,Medium,First-Time | VIP | Medium
+21,Male,UK,2025-04-25,VIP,200,2,24.49,1.6,0,8.7,6,400,426.09000000000003,2025-04,Friday,0,18-29,High,First-Time | VIP | High
+28,Female,Japan,2025-01-13,Premium,150,2,6.26,7.54,1,9.5,9,300,313.8,2025-01,Monday,0,18-29,Medium,Repeat | Premium | Medium
+34,Female,Japan,2025-06-07,Premium,150,2,38.44,25.54,0,7.4,8,300,363.98,2025-06,Saturday,1,30-44,Medium,First-Time | Premium | Medium
+55,Female,USA,2025-08-15,Economy,60,1,79.97,13.12,1,4.9,8,60,153.09,2025-08,Friday,0,45-59,Low,Repeat | Economy | Low
+41,Female,Germany,2025-02-06,Economy,60,4,16.55,12.69,1,7.3,7,240,269.24,2025-02,Thursday,0,30-44,Medium,Repeat | Economy | Medium
+22,Other,USA,2025-01-07,Premium,150,3,39.21,32.63,0,9.2,5,450,521.84,2025-01,Tuesday,0,18-29,High,First-Time | Premium | High
+69,Female,Australia,2025-05-31,High Economy,100,1,114.5,39.79,0,9.1,9,100,254.29,2025-05,Saturday,1,60+,Medium,First-Time | High Economy | Medium
+51,Female,USA,2025-08-09,Economy,60,2,2.05,28.88,1,10.0,6,120,150.93,2025-08,Saturday,1,45-59,Low,Repeat | Economy | Low
+23,Female,USA,2025-07-01,Premium,150,2,35.7,15.52,0,7.4,7,300,351.21999999999997,2025-07,Tuesday,0,18-29,Medium,First-Time | Premium | Medium
+39,Male,UK,2025-09-07,Premium,150,1,33.5,12.1,1,10.0,9,150,195.6,2025-09,Sunday,1,30-44,Low,Repeat | Premium | Low
+28,Male,USA,2025-03-12,Economy,60,1,12.78,9.97,0,8.3,5,60,82.75,2025-03,Wednesday,0,18-29,Low,First-Time | Economy | Low
+65,Female,Japan,2025-03-13,VIP,200,2,14.66,20.22,0,8.9,6,400,434.88,2025-03,Thursday,0,60+,High,First-Time | VIP | High
+33,Female,UK,2025-02-19,High Economy,100,4,90.74,7.01,1,9.4,10,400,497.75,2025-02,Wednesday,0,30-44,High,Repeat | High Economy | High
+50,Female,Sweden,2025-07-18,High Economy,100,2,133.54,30.81,0,5.9,8,200,364.34999999999997,2025-07,Friday,0,45-59,Medium,First-Time | High Economy | Medium
+26,Male,Germany,2025-08-29,Premium,150,2,27.35,23.93,0,6.5,7,300,351.28000000000003,2025-08,Friday,0,18-29,Medium,First-Time | Premium | Medium
+23,Female,UK,2025-03-06,Premium,150,1,100.08,12.68,1,6.4,8,150,262.76,2025-03,Thursday,0,18-29,Medium,Repeat | Premium | Medium
+33,Male,Australia,2025-06-13,Economy,60,4,54.65,12.54,0,9.6,9,240,307.19,2025-06,Friday,0,30-44,Medium,First-Time | Economy | Medium
+46,Female,Sweden,2025-07-11,VIP,200,2,46.19,12.47,0,7.5,10,400,458.66,2025-07,Friday,0,45-59,High,First-Time | VIP | High
+20,Female,UK,2025-02-17,Premium,150,2,136.94,13.7,0,10.0,6,300,450.64,2025-02,Monday,0,18-29,High,First-Time | Premium | High
+37,Female,UK,2025-02-10,Economy,60,3,26.24,17.7,1,8.0,7,180,223.94,2025-02,Monday,0,30-44,Low,Repeat | Economy | Low
+53,Female,Germany,2025-03-01,High Economy,100,1,31.87,18.92,1,5.8,9,100,150.79000000000002,2025-03,Saturday,1,45-59,Low,Repeat | High Economy | Low
+36,Female,Japan,2025-02-16,VIP,200,3,18.77,45.06,0,7.0,9,600,663.8299999999999,2025-02,Sunday,1,30-44,High,First-Time | VIP | High
+43,Male,Australia,2025-01-31,Economy,60,3,76.46,17.68,1,8.2,6,180,274.14,2025-01,Friday,0,30-44,Medium,Repeat | Economy | Medium
+20,Female,France,2025-01-04,Premium,150,2,134.76,11.53,1,8.8,7,300,446.28999999999996,2025-01,Saturday,1,18-29,High,Repeat | Premium | High
+36,Male,France,2025-03-14,Economy,60,1,65.18,40.87,0,6.5,8,60,166.05,2025-03,Friday,0,30-44,Low,First-Time | Economy | Low
+37,Female,UK,2025-03-20,Economy,60,4,173.2,15.66,0,8.9,8,240,428.86,2025-03,Thursday,0,30-44,High,First-Time | Economy | High
+49,Female,USA,2025-07-17,High Economy,100,2,105.26,0.93,0,9.3,8,200,306.19,2025-07,Thursday,0,45-59,Medium,First-Time | High Economy | Medium
+24,Female,Australia,2025-05-14,High Economy,100,4,118.49,47.2,0,7.0,6,400,565.69,2025-05,Wednesday,0,18-29,High,First-Time | High Economy | High
+69,Female,Sweden,2025-07-14,Economy,60,4,65.9,7.56,1,10.0,8,240,313.46,2025-07,Monday,0,60+,Medium,Repeat | Economy | Medium
+58,Female,USA,2025-07-04,VIP,200,1,27.27,22.29,1,7.2,7,200,249.56,2025-07,Friday,0,45-59,Low,Repeat | VIP | Low
+50,Other,USA,2025-07-06,Economy,60,3,51.68,14.55,0,6.5,6,180,246.23000000000002,2025-07,Sunday,1,45-59,Low,First-Time | Economy | Low
+57,Male,Australia,2025-03-20,Premium,150,1,122.25,16.29,0,5.7,8,150,288.54,2025-03,Thursday,0,45-59,Medium,First-Time | Premium | Medium
+56,Male,Japan,2025-06-09,Premium,150,4,40.47,8.59,0,9.8,8,600,649.0600000000001,2025-06,Monday,0,45-59,High,First-Time | Premium | High
+35,Male,UK,2025-09-04,Premium,150,2,99.75,6.86,0,8.0,9,300,406.61,2025-09,Thursday,0,30-44,Medium,First-Time | Premium | Medium
+57,Male,UK,2025-09-03,Economy,60,4,23.12,31.87,0,7.3,7,240,294.99,2025-09,Wednesday,0,45-59,Medium,First-Time | Economy | Medium
+18,Female,UK,2025-07-06,Economy,60,2,97.28,16.72,0,5.8,8,120,234.0,2025-07,Sunday,1,18-29,Low,First-Time | Economy | Low
+28,Other,UK,2025-05-01,Premium,150,2,59.56,13.73,0,7.4,6,300,373.29,2025-05,Thursday,0,18-29,Medium,First-Time | Premium | Medium
+45,Male,France,2025-06-25,VIP,200,1,41.96,13.93,0,10.0,8,200,255.89000000000001,2025-06,Wednesday,0,45-59,Medium,First-Time | VIP | Medium
+42,Male,UK,2025-01-12,Economy,60,4,58.73,33.63,1,4.8,9,240,332.36,2025-01,Sunday,1,30-44,Medium,Repeat | Economy | Medium
+67,Male,France,2025-08-18,High Economy,100,3,89.45,7.64,0,7.1,9,300,397.09,2025-08,Monday,0,60+,Medium,First-Time | High Economy | Medium
+40,Female,France,2025-09-02,VIP,200,4,115.47,41.11,0,10.0,9,800,956.58,2025-09,Tuesday,0,30-44,High,First-Time | VIP | High
+48,Female,Japan,2025-06-07,High Economy,100,4,31.24,19.72,0,9.9,9,400,450.96000000000004,2025-06,Saturday,1,45-59,High,First-Time | High Economy | High
+47,Male,UK,2025-08-19,High Economy,100,3,39.1,12.33,0,7.1,7,300,351.43,2025-08,Tuesday,0,45-59,Medium,First-Time | High Economy | Medium
+59,Other,Germany,2025-07-25,Economy,60,1,84.43,10.46,0,8.3,9,60,154.89000000000001,2025-07,Friday,0,45-59,Low,First-Time | Economy | Low
+52,Female,Sweden,2025-03-26,Premium,150,4,220.62,9.52,0,8.7,10,600,830.14,2025-03,Wednesday,0,45-59,High,First-Time | Premium | High
+24,Male,USA,2025-02-16,High Economy,100,4,199.24,9.17,1,8.2,7,400,608.41,2025-02,Sunday,1,18-29,High,Repeat | High Economy | High
+33,Female,France,2025-02-22,High Economy,100,2,122.58,27.59,0,10.0,10,200,350.16999999999996,2025-02,Saturday,1,30-44,Medium,First-Time | High Economy | Medium
+43,Female,Australia,2025-04-13,Economy,60,4,145.9,6.13,1,8.5,9,240,392.03,2025-04,Sunday,1,30-44,Medium,Repeat | Economy | Medium
+65,Male,Australia,2025-06-09,High Economy,100,3,25.78,14.58,1,9.7,8,300,340.35999999999996,2025-06,Monday,0,60+,Medium,Repeat | High Economy | Medium
+69,Male,Sweden,2025-05-11,High Economy,100,2,23.16,18.83,1,8.3,8,200,241.99,2025-05,Sunday,1,60+,Low,Repeat | High Economy | Low
+66,Male,Australia,2025-06-15,Premium,150,1,20.41,7.37,0,5.0,8,150,177.78,2025-06,Sunday,1,60+,Low,First-Time | Premium | Low
+19,Male,Germany,2025-08-01,Economy,60,2,25.38,4.83,1,6.2,9,120,150.21,2025-08,Friday,0,18-29,Low,Repeat | Economy | Low
+18,Female,Australia,2025-04-17,High Economy,100,3,82.37,1.99,0,6.5,9,300,384.36,2025-04,Thursday,0,18-29,Medium,First-Time | High Economy | Medium
+65,Other,USA,2025-01-09,VIP,200,3,57.37,18.41,0,7.6,7,600,675.78,2025-01,Thursday,0,60+,High,First-Time | VIP | High
+29,Male,USA,2025-07-30,High Economy,100,2,91.51,2.91,1,10.0,5,200,294.42,2025-07,Wednesday,0,18-29,Medium,Repeat | High Economy | Medium
+22,Male,France,2025-02-02,Premium,150,1,134.91,51.62,0,8.5,9,150,336.53,2025-02,Sunday,1,18-29,Medium,First-Time | Premium | Medium
+54,Male,UK,2025-09-03,VIP,200,2,65.27,22.19,0,7.8,5,400,487.46,2025-09,Wednesday,0,45-59,High,First-Time | VIP | High
+49,Male,Japan,2025-08-11,Economy,60,1,56.82,11.5,0,9.9,6,60,128.32,2025-08,Monday,0,45-59,Low,First-Time | Economy | Low
+26,Female,Germany,2025-08-18,High Economy,100,2,176.46,11.51,0,5.8,7,200,387.97,2025-08,Monday,0,18-29,Medium,First-Time | High Economy | Medium
+58,Male,France,2025-07-01,Economy,60,3,39.85,18.73,0,7.3,6,180,238.57999999999998,2025-07,Tuesday,0,45-59,Low,First-Time | Economy | Low
+52,Male,Germany,2025-02-12,Premium,150,4,16.11,11.94,0,7.0,9,600,628.0500000000001,2025-02,Wednesday,0,45-59,High,First-Time | Premium | High
+36,Male,UK,2025-02-17,Economy,60,4,79.82,2.43,1,8.6,8,240,322.25,2025-02,Monday,0,30-44,Medium,Repeat | Economy | Medium
+65,Female,Australia,2025-01-17,VIP,200,1,35.04,3.86,1,9.3,9,200,238.9,2025-01,Friday,0,60+,Low,Repeat | VIP | Low
+33,Male,Australia,2025-04-03,Premium,150,1,63.19,31.45,1,8.7,6,150,244.64,2025-04,Thursday,0,30-44,Low,Repeat | Premium | Low
+20,Female,Japan,2025-01-31,Economy,60,1,25.53,10.7,0,8.7,7,60,96.23,2025-01,Friday,0,18-29,Low,First-Time | Economy | Low
+37,Male,UK,2025-02-28,Economy,60,3,81.95,15.77,0,7.5,8,180,277.71999999999997,2025-02,Friday,0,30-44,Medium,First-Time | Economy | Medium
+41,Female,France,2025-05-04,High Economy,100,2,55.26,29.42,1,8.5,8,200,284.68,2025-05,Sunday,1,30-44,Medium,Repeat | High Economy | Medium
+50,Female,Japan,2025-05-26,Premium,150,3,53.42,9.9,1,6.7,9,450,513.32,2025-05,Monday,0,45-59,High,Repeat | Premium | High
+41,Male,UK,2025-06-17,Economy,60,4,92.48,2.22,0,9.0,7,240,334.70000000000005,2025-06,Tuesday,0,30-44,Medium,First-Time | Economy | Medium
+69,Male,Sweden,2025-05-03,High Economy,100,1,137.72,16.57,0,7.2,7,100,254.29,2025-05,Saturday,1,60+,Medium,First-Time | High Economy | Medium
+28,Female,USA,2025-07-13,Economy,60,2,166.66,19.26,0,6.3,9,120,305.91999999999996,2025-07,Sunday,1,18-29,Medium,First-Time | Economy | Medium
+66,Other,Japan,2025-08-02,Economy,60,4,91.49,7.59,0,8.1,5,240,339.08,2025-08,Saturday,1,60+,Medium,First-Time | Economy | Medium
+25,Female,Japan,2025-08-30,VIP,200,4,58.24,5.4,0,5.1,9,800,863.64,2025-08,Saturday,1,18-29,High,First-Time | VIP | High
+53,Female,France,2025-04-23,VIP,200,4,58.8,30.6,1,10.0,9,800,889.4,2025-04,Wednesday,0,45-59,High,Repeat | VIP | High
+55,Other,Germany,2025-08-30,High Economy,100,3,107.25,22.08,0,9.2,6,300,429.33,2025-08,Saturday,1,45-59,High,First-Time | High Economy | High
+57,Female,Sweden,2025-04-23,Premium,150,1,24.53,10.22,0,8.5,8,150,184.75,2025-04,Wednesday,0,45-59,Low,First-Time | Premium | Low
+37,Male,France,2025-04-21,Premium,150,4,29.76,4.95,0,5.6,10,600,634.71,2025-04,Monday,0,30-44,High,First-Time | Premium | High
+52,Other,UK,2025-07-07,Economy,60,1,9.57,24.97,0,6.9,9,60,94.53999999999999,2025-07,Monday,0,45-59,Low,First-Time | Economy | Low
+65,Male,UK,2025-03-07,High Economy,100,3,112.93,13.04,0,8.1,9,300,425.97,2025-03,Friday,0,60+,High,First-Time | High Economy | High
+42,Female,UK,2025-04-27,Economy,60,4,149.2,6.92,0,7.6,10,240,396.12,2025-04,Sunday,1,30-44,Medium,First-Time | Economy | Medium
+52,Male,UK,2025-07-30,High Economy,100,3,92.04,23.38,0,5.5,10,300,415.42,2025-07,Wednesday,0,45-59,Medium,First-Time | High Economy | Medium
+42,Male,Germany,2025-05-08,High Economy,100,3,11.61,13.95,1,6.0,8,300,325.56,2025-05,Thursday,0,30-44,Medium,Repeat | High Economy | Medium
+46,Male,Sweden,2025-06-03,VIP,200,1,81.08,19.99,0,7.6,7,200,301.07,2025-06,Tuesday,0,45-59,Medium,First-Time | VIP | Medium
+35,Female,Australia,2025-02-14,Premium,150,4,41.09,23.48,0,6.1,10,600,664.57,2025-02,Friday,0,30-44,High,First-Time | Premium | High
+63,Male,USA,2025-01-04,Premium,150,3,70.52,2.79,0,10.0,8,450,523.31,2025-01,Saturday,1,60+,High,First-Time | Premium | High
+35,Male,Germany,2025-08-26,Premium,150,4,169.74,6.44,1,8.7,7,600,776.1800000000001,2025-08,Tuesday,0,30-44,High,Repeat | Premium | High
+19,Male,Germany,2025-02-09,Economy,60,1,28.43,28.39,0,6.8,7,60,116.82000000000001,2025-02,Sunday,1,18-29,Low,First-Time | Economy | Low
+52,Female,Australia,2025-09-07,Premium,150,3,92.51,21.74,1,9.8,9,450,564.25,2025-09,Sunday,1,45-59,High,Repeat | Premium | High
+33,Other,Australia,2025-03-28,High Economy,100,1,50.75,29.95,0,9.5,7,100,180.7,2025-03,Friday,0,30-44,Low,First-Time | High Economy | Low
+58,Female,USA,2025-03-01,Premium,150,4,59.43,8.62,1,8.4,7,600,668.05,2025-03,Saturday,1,45-59,High,Repeat | Premium | High
+53,Female,USA,2025-06-03,VIP,200,4,13.2,14.63,1,7.9,7,800,827.83,2025-06,Tuesday,0,45-59,High,Repeat | VIP | High
+50,Female,Australia,2025-02-02,High Economy,100,1,42.05,15.2,0,7.6,10,100,157.25,2025-02,Sunday,1,45-59,Low,First-Time | High Economy | Low
+21,Female,UK,2025-02-08,Premium,150,2,20.05,20.39,0,7.2,8,300,340.44,2025-02,Saturday,1,18-29,Medium,First-Time | Premium | Medium
+50,Male,Germany,2025-08-14,Premium,150,3,96.03,20.02,0,6.0,7,450,566.05,2025-08,Thursday,0,45-59,High,First-Time | Premium | High
+31,Male,France,2025-01-21,VIP,200,4,60.95,26.98,1,10.0,7,800,887.9300000000001,2025-01,Tuesday,0,30-44,High,Repeat | VIP | High
+38,Male,USA,2025-01-22,Premium,150,4,83.67,14.69,0,7.2,9,600,698.36,2025-01,Wednesday,0,30-44,High,First-Time | Premium | High
+65,Male,USA,2025-06-01,Economy,60,3,28.84,25.22,0,8.0,9,180,234.06,2025-06,Sunday,1,60+,Low,First-Time | Economy | Low
+37,Male,Australia,2025-08-02,Premium,150,1,37.74,27.95,1,6.6,7,150,215.69,2025-08,Saturday,1,30-44,Low,Repeat | Premium | Low
+25,Female,Sweden,2025-04-25,Premium,150,1,106.29,14.61,1,7.6,8,150,270.90000000000003,2025-04,Friday,0,18-29,Medium,Repeat | Premium | Medium
+24,Male,France,2025-06-14,High Economy,100,1,45.71,11.31,0,10.0,8,100,157.02,2025-06,Saturday,1,18-29,Low,First-Time | High Economy | Low
+20,Female,France,2025-02-15,Premium,150,2,36.56,16.61,0,6.9,7,300,353.17,2025-02,Saturday,1,18-29,Medium,First-Time | Premium | Medium
+34,Female,USA,2025-02-16,Economy,60,2,96.8,21.93,0,10.0,6,120,238.73000000000002,2025-02,Sunday,1,30-44,Low,First-Time | Economy | Low
+50,Male,UK,2025-05-07,High Economy,100,4,29.4,84.34,0,8.0,9,400,513.74,2025-05,Wednesday,0,45-59,High,First-Time | High Economy | High
+65,Female,Sweden,2025-03-22,High Economy,100,1,38.55,17.18,0,9.0,7,100,155.73000000000002,2025-03,Saturday,1,60+,Low,First-Time | High Economy | Low
+29,Female,France,2025-08-02,High Economy,100,3,55.84,8.87,0,9.9,9,300,364.71000000000004,2025-08,Saturday,1,18-29,Medium,First-Time | High Economy | Medium
+68,Male,USA,2025-04-13,Premium,150,4,77.88,1.83,0,8.4,9,600,679.71,2025-04,Sunday,1,60+,High,First-Time | Premium | High
+39,Female,France,2025-03-24,High Economy,100,3,47.84,27.8,1,7.5,8,300,375.64000000000004,2025-03,Monday,0,30-44,Medium,Repeat | High Economy | Medium
+39,Female,Japan,2025-01-02,Premium,150,4,14.62,4.61,0,7.7,7,600,619.23,2025-01,Thursday,0,30-44,High,First-Time | Premium | High
+63,Female,Sweden,2025-01-23,Economy,60,2,86.47,73.01,0,7.8,7,120,279.48,2025-01,Thursday,0,60+,Medium,First-Time | Economy | Medium
+47,Female,Sweden,2025-05-17,Premium,150,4,124.19,21.25,0,10.0,6,600,745.44,2025-05,Saturday,1,45-59,High,First-Time | Premium | High
+55,Female,Japan,2025-02-06,High Economy,100,2,35.71,50.72,0,5.8,7,200,286.43,2025-02,Thursday,0,45-59,Medium,First-Time | High Economy | Medium
+55,Female,Germany,2025-04-08,High Economy,100,4,45.1,28.92,0,5.3,9,400,474.02000000000004,2025-04,Tuesday,0,45-59,High,First-Time | High Economy | High
+62,Male,Japan,2025-05-11,VIP,200,1,22.33,13.75,0,5.4,10,200,236.07999999999998,2025-05,Sunday,1,60+,Low,First-Time | VIP | Low
+68,Male,Australia,2025-04-18,Premium,150,3,57.66,20.65,1,6.7,10,450,528.31,2025-04,Friday,0,60+,High,Repeat | Premium | High
+25,Male,Australia,2025-04-13,Economy,60,1,26.43,7.05,0,9.1,8,60,93.48,2025-04,Sunday,1,18-29,Low,First-Time | Economy | Low
+44,Female,USA,2025-06-09,Economy,60,4,145.85,13.46,0,9.1,10,240,399.31,2025-06,Monday,0,30-44,Medium,First-Time | Economy | Medium
+44,Male,Sweden,2025-06-04,Premium,150,4,43.32,21.47,1,7.1,8,600,664.7900000000001,2025-06,Wednesday,0,30-44,High,Repeat | Premium | High
+51,Female,Germany,2025-04-05,Economy,60,4,39.04,3.23,0,8.0,6,240,282.27000000000004,2025-04,Saturday,1,45-59,Medium,First-Time | Economy | Medium
+38,Female,Germany,2025-04-21,Economy,60,2,42.33,11.98,1,6.3,10,120,174.30999999999997,2025-04,Monday,0,30-44,Low,Repeat | Economy | Low
+47,Female,France,2025-02-14,Economy,60,3,29.07,26.94,0,6.5,9,180,236.01,2025-02,Friday,0,45-59,Low,First-Time | Economy | Low
+50,Other,France,2025-06-01,VIP,200,3,63.56,21.14,1,8.9,6,600,684.6999999999999,2025-06,Sunday,1,45-59,High,Repeat | VIP | High
+45,Female,Japan,2025-04-23,Economy,60,4,41.85,6.14,0,9.6,10,240,287.99,2025-04,Wednesday,0,45-59,Medium,First-Time | Economy | Medium
+64,Female,Germany,2025-04-22,Premium,150,4,98.9,35.17,1,7.3,7,600,734.0699999999999,2025-04,Tuesday,0,60+,High,Repeat | Premium | High
+50,Male,Japan,2025-09-04,Economy,60,2,63.36,16.99,1,10.0,7,120,200.35000000000002,2025-09,Thursday,0,45-59,Low,Repeat | Economy | Low
+22,Female,Japan,2025-04-18,High Economy,100,1,81.1,8.17,0,9.4,10,100,189.26999999999998,2025-04,Friday,0,18-29,Low,First-Time | High Economy | Low
+65,Male,France,2025-01-19,VIP,200,1,87.29,3.21,0,10.0,10,200,290.5,2025-01,Sunday,1,60+,Medium,First-Time | VIP | Medium
+36,Male,Sweden,2025-03-10,Economy,60,3,123.91,32.03,1,7.5,7,180,335.93999999999994,2025-03,Monday,0,30-44,Medium,Repeat | Economy | Medium
+21,Female,Japan,2025-04-06,Premium,150,2,37.43,34.59,0,10.0,10,300,372.02,2025-04,Sunday,1,18-29,Medium,First-Time | Premium | Medium
+52,Female,UK,2025-08-04,Economy,60,4,30.89,24.89,0,10.0,9,240,295.78,2025-08,Monday,0,45-59,Medium,First-Time | Economy | Medium
+66,Male,Sweden,2025-01-05,Economy,60,3,35.44,15.43,0,7.4,7,180,230.87,2025-01,Sunday,1,60+,Low,First-Time | Economy | Low
+34,Female,Germany,2025-04-11,High Economy,100,2,55.04,19.68,1,7.8,8,200,274.71999999999997,2025-04,Friday,0,30-44,Medium,Repeat | High Economy | Medium
+61,Female,Germany,2025-05-31,VIP,200,1,67.9,26.21,0,6.6,10,200,294.10999999999996,2025-05,Saturday,1,60+,Medium,First-Time | VIP | Medium
+45,Female,Japan,2025-06-30,High Economy,100,2,25.02,9.75,0,6.3,6,200,234.77,2025-06,Monday,0,45-59,Low,First-Time | High Economy | Low
+47,Female,Sweden,2025-07-10,VIP,200,1,33.37,11.03,0,6.3,10,200,244.4,2025-07,Thursday,0,45-59,Low,First-Time | VIP | Low
+46,Female,France,2025-05-22,VIP,200,2,68.1,18.45,1,6.8,9,400,486.55,2025-05,Thursday,0,45-59,High,Repeat | VIP | High
+63,Other,France,2025-01-03,Economy,60,3,61.77,9.4,1,8.4,9,180,251.17000000000002,2025-01,Friday,0,60+,Medium,Repeat | Economy | Medium
+23,Female,Australia,2025-02-17,Premium,150,1,39.56,9.69,1,6.8,8,150,199.25,2025-02,Monday,0,18-29,Low,Repeat | Premium | Low
+52,Female,Germany,2025-05-07,Premium,150,3,14.84,18.99,0,8.4,10,450,483.83,2025-05,Wednesday,0,45-59,High,First-Time | Premium | High
+58,Other,USA,2025-01-19,Economy,60,3,61.07,31.56,1,8.4,10,180,272.63,2025-01,Sunday,1,45-59,Medium,Repeat | Economy | Medium
+54,Other,Australia,2025-08-29,Premium,150,1,85.07,30.84,0,7.3,7,150,265.90999999999997,2025-08,Friday,0,45-59,Medium,First-Time | Premium | Medium
+41,Male,France,2025-07-25,Premium,150,1,82.21,16.49,0,7.9,9,150,248.7,2025-07,Friday,0,30-44,Low,First-Time | Premium | Low
+46,Male,Sweden,2025-06-10,Economy,60,4,44.7,14.7,0,7.2,10,240,299.4,2025-06,Tuesday,0,45-59,Medium,First-Time | Economy | Medium
+66,Male,France,2025-05-20,VIP,200,4,25.99,38.63,0,7.5,7,800,864.62,2025-05,Tuesday,0,60+,High,First-Time | VIP | High
+63,Male,Sweden,2025-03-12,Economy,60,4,18.48,23.81,1,6.8,8,240,282.29,2025-03,Wednesday,0,60+,Medium,Repeat | Economy | Medium
+48,Female,Australia,2025-05-22,Economy,60,3,24.43,5.08,0,8.1,10,180,209.51000000000002,2025-05,Thursday,0,45-59,Low,First-Time | Economy | Low
+52,Female,Germany,2025-01-24,Economy,60,3,73.9,6.91,0,7.1,5,180,260.81,2025-01,Friday,0,45-59,Medium,First-Time | Economy | Medium
+50,Female,France,2025-01-23,High Economy,100,4,42.26,25.41,1,6.3,9,400,467.67,2025-01,Thursday,0,45-59,High,Repeat | High Economy | High
+69,Male,Japan,2025-01-14,Premium,150,3,53.0,29.93,1,8.9,6,450,532.93,2025-01,Tuesday,0,60+,High,Repeat | Premium | High
+38,Female,Sweden,2025-01-07,Premium,150,3,9.97,2.42,0,8.9,8,450,462.39000000000004,2025-01,Tuesday,0,30-44,High,First-Time | Premium | High
+49,Female,Germany,2025-01-02,Economy,60,1,101.56,14.44,0,9.7,10,60,176.0,2025-01,Thursday,0,45-59,Low,First-Time | Economy | Low
+40,Female,USA,2025-07-23,Economy,60,1,122.33,7.34,1,6.5,4,60,189.67,2025-07,Wednesday,0,30-44,Low,Repeat | Economy | Low
+50,Other,Sweden,2025-07-12,High Economy,100,3,29.17,18.83,0,7.3,9,300,348.0,2025-07,Saturday,1,45-59,Medium,First-Time | High Economy | Medium
+20,Female,Australia,2025-03-30,Premium,150,4,140.79,37.84,0,8.3,10,600,778.63,2025-03,Sunday,1,18-29,High,First-Time | Premium | High
+35,Male,USA,2025-04-14,VIP,200,2,37.42,5.05,0,7.2,7,400,442.47,2025-04,Monday,0,30-44,High,First-Time | VIP | High
+42,Female,USA,2025-08-16,VIP,200,4,22.54,9.78,0,8.9,9,800,832.3199999999999,2025-08,Saturday,1,30-44,High,First-Time | VIP | High
+59,Male,UK,2025-01-03,Economy,60,2,27.28,13.52,1,8.7,10,120,160.8,2025-01,Friday,0,45-59,Low,Repeat | Economy | Low
+48,Male,France,2025-06-18,High Economy,100,4,34.87,5.25,0,8.7,6,400,440.12,2025-06,Wednesday,0,45-59,High,First-Time | High Economy | High
+20,Female,Sweden,2025-05-24,Economy,60,1,31.92,2.38,0,10.0,9,60,94.3,2025-05,Saturday,1,18-29,Low,First-Time | Economy | Low
+57,Male,USA,2025-02-02,Economy,60,3,39.76,7.7,0,9.0,10,180,227.45999999999998,2025-02,Sunday,1,45-59,Low,First-Time | Economy | Low
+63,Female,UK,2025-07-12,Premium,150,3,29.31,56.49,0,8.2,9,450,535.8,2025-07,Saturday,1,60+,High,First-Time | Premium | High
+41,Male,Australia,2025-01-11,High Economy,100,1,93.23,12.59,0,7.7,8,100,205.82000000000002,2025-01,Saturday,1,30-44,Low,First-Time | High Economy | Low
+67,Female,Germany,2025-05-02,High Economy,100,2,33.12,12.71,0,7.8,7,200,245.83,2025-05,Friday,0,60+,Low,First-Time | High Economy | Low
+49,Male,Japan,2025-01-02,High Economy,100,2,11.25,25.24,0,6.4,10,200,236.49,2025-01,Thursday,0,45-59,Low,First-Time | High Economy | Low
+64,Other,Japan,2025-08-25,Economy,60,2,20.49,14.06,0,5.4,8,120,154.55,2025-08,Monday,0,60+,Low,First-Time | Economy | Low
+39,Female,Sweden,2025-02-04,Economy,60,1,41.97,40.01,0,8.7,7,60,141.98,2025-02,Tuesday,0,30-44,Low,First-Time | Economy | Low
+40,Male,USA,2025-08-17,Economy,60,2,46.63,18.47,0,9.8,8,120,185.1,2025-08,Sunday,1,30-44,Low,First-Time | Economy | Low
+19,Female,Japan,2025-05-15,Premium,150,1,96.44,8.52,0,7.5,9,150,254.96,2025-05,Thursday,0,18-29,Medium,First-Time | Premium | Medium
+44,Other,France,2025-06-03,VIP,200,4,44.95,26.32,0,10.0,6,800,871.2700000000001,2025-06,Tuesday,0,30-44,High,First-Time | VIP | High
+59,Female,Japan,2025-04-18,Economy,60,4,60.51,4.67,1,7.7,8,240,305.18,2025-04,Friday,0,45-59,Medium,Repeat | Economy | Medium
+19,Male,Japan,2025-03-23,VIP,200,1,36.93,11.53,0,5.1,7,200,248.46,2025-03,Sunday,1,18-29,Low,First-Time | VIP | Low
+43,Female,Japan,2025-06-17,Premium,150,3,62.79,6.77,0,9.4,10,450,519.56,2025-06,Tuesday,0,30-44,High,First-Time | Premium | High
+34,Female,UK,2025-08-13,VIP,200,4,9.94,5.68,0,7.3,5,800,815.62,2025-08,Wednesday,0,30-44,High,First-Time | VIP | High
+57,Female,USA,2025-07-06,High Economy,100,2,64.26,34.26,1,9.5,9,200,298.52,2025-07,Sunday,1,45-59,Medium,Repeat | High Economy | Medium
+50,Female,France,2025-04-18,Premium,150,1,40.92,29.63,0,6.1,10,150,220.55,2025-04,Friday,0,45-59,Low,First-Time | Premium | Low
+26,Male,USA,2025-07-01,High Economy,100,2,99.74,18.79,1,8.6,5,200,318.53000000000003,2025-07,Tuesday,0,18-29,Medium,Repeat | High Economy | Medium
+60,Male,Sweden,2025-09-02,Economy,60,2,104.88,50.49,0,6.8,5,120,275.37,2025-09,Tuesday,0,60+,Medium,First-Time | Economy | Medium
+65,Female,Sweden,2025-07-09,VIP,200,3,69.61,8.04,1,8.3,10,600,677.65,2025-07,Wednesday,0,60+,High,Repeat | VIP | High
+56,Male,Sweden,2025-08-06,VIP,200,2,37.14,26.04,1,9.1,7,400,463.18,2025-08,Wednesday,0,45-59,High,Repeat | VIP | High
+46,Male,Australia,2025-07-06,Premium,150,3,38.92,39.45,0,8.8,10,450,528.37,2025-07,Sunday,1,45-59,High,First-Time | Premium | High
+59,Other,Japan,2025-08-20,Economy,60,4,21.08,17.64,0,8.1,5,240,278.71999999999997,2025-08,Wednesday,0,45-59,Medium,First-Time | Economy | Medium
+43,Female,Australia,2025-02-21,Premium,150,1,43.41,14.95,0,5.9,8,150,208.35999999999999,2025-02,Friday,0,30-44,Low,First-Time | Premium | Low
+52,Female,UK,2025-08-30,Premium,150,2,13.59,9.6,0,9.1,8,300,323.19,2025-08,Saturday,1,45-59,Medium,First-Time | Premium | Medium
+67,Female,Sweden,2025-01-31,VIP,200,1,42.77,25.99,0,9.5,8,200,268.76,2025-01,Friday,0,60+,Medium,First-Time | VIP | Medium
+42,Female,France,2025-07-05,Economy,60,2,96.51,4.03,0,6.4,9,120,220.54,2025-07,Saturday,1,30-44,Low,First-Time | Economy | Low
+41,Female,USA,2025-03-04,High Economy,100,1,34.39,2.51,0,6.7,9,100,136.89999999999998,2025-03,Tuesday,0,30-44,Low,First-Time | High Economy | Low
+30,Female,Japan,2025-06-20,Economy,60,2,64.34,22.45,0,9.6,8,120,206.79,2025-06,Friday,0,30-44,Low,First-Time | Economy | Low
+24,Male,Germany,2025-02-10,Economy,60,2,79.85,7.45,0,7.7,7,120,207.29999999999998,2025-02,Monday,0,18-29,Low,First-Time | Economy | Low
+53,Male,France,2025-01-18,Premium,150,2,91.66,8.31,0,6.7,10,300,399.96999999999997,2025-01,Saturday,1,45-59,Medium,First-Time | Premium | Medium
+62,Female,Japan,2025-08-10,Economy,60,2,34.22,6.39,0,8.4,9,120,160.60999999999999,2025-08,Sunday,1,60+,Low,First-Time | Economy | Low
+37,Female,Australia,2025-05-12,VIP,200,2,21.44,18.92,1,7.0,8,400,440.36,2025-05,Monday,0,30-44,High,Repeat | VIP | High
+18,Male,Australia,2025-05-04,Economy,60,2,18.78,17.17,0,8.2,9,120,155.95,2025-05,Sunday,1,18-29,Low,First-Time | Economy | Low
+25,Male,France,2025-03-27,High Economy,100,2,22.73,6.21,1,7.4,9,200,228.94,2025-03,Thursday,0,18-29,Low,Repeat | High Economy | Low
+63,Male,Australia,2025-07-05,Economy,60,2,36.42,16.67,0,7.5,7,120,173.09000000000003,2025-07,Saturday,1,60+,Low,First-Time | Economy | Low
+33,Male,Sweden,2025-06-02,VIP,200,2,13.19,17.96,0,9.7,9,400,431.15,2025-06,Monday,0,30-44,High,First-Time | VIP | High
+31,Female,UK,2025-03-03,Premium,150,1,27.72,12.67,0,4.3,7,150,190.39,2025-03,Monday,0,30-44,Low,First-Time | Premium | Low
+29,Male,USA,2025-01-20,Premium,150,3,102.38,30.77,0,8.8,9,450,583.15,2025-01,Monday,0,18-29,High,First-Time | Premium | High
+68,Female,UK,2025-07-14,Premium,150,2,97.05,13.68,1,9.4,8,300,410.73,2025-07,Monday,0,60+,Medium,Repeat | Premium | Medium
+40,Female,Japan,2025-09-07,Premium,150,3,5.96,21.38,0,7.1,9,450,477.34,2025-09,Sunday,1,30-44,High,First-Time | Premium | High
+32,Female,USA,2025-01-23,Premium,150,2,215.42,14.15,0,9.4,7,300,529.5699999999999,2025-01,Thursday,0,30-44,High,First-Time | Premium | High
+45,Female,USA,2025-03-07,VIP,200,2,119.16,17.6,1,6.6,9,400,536.76,2025-03,Friday,0,45-59,High,Repeat | VIP | High
+51,Male,UK,2025-08-23,High Economy,100,1,13.0,13.83,0,7.0,7,100,126.83,2025-08,Saturday,1,45-59,Low,First-Time | High Economy | Low
+19,Female,France,2025-05-23,Economy,60,4,52.38,6.61,1,6.8,8,240,298.99,2025-05,Friday,0,18-29,Medium,Repeat | Economy | Medium
+49,Male,USA,2025-02-04,High Economy,100,4,33.96,11.15,1,9.4,10,400,445.10999999999996,2025-02,Tuesday,0,45-59,High,Repeat | High Economy | High
+40,Male,UK,2025-04-18,VIP,200,1,31.1,31.98,0,5.4,9,200,263.08,2025-04,Friday,0,30-44,Medium,First-Time | VIP | Medium
+39,Other,USA,2025-08-22,High Economy,100,3,12.37,38.41,0,10.0,8,300,350.78,2025-08,Friday,0,30-44,Medium,First-Time | High Economy | Medium
+68,Male,Germany,2025-08-14,VIP,200,4,91.1,21.29,0,7.5,10,800,912.39,2025-08,Thursday,0,60+,High,First-Time | VIP | High
+42,Male,France,2025-08-06,Economy,60,1,90.19,18.54,0,8.9,10,60,168.73,2025-08,Wednesday,0,30-44,Low,First-Time | Economy | Low
+39,Female,Sweden,2025-08-09,VIP,200,1,65.72,4.25,0,8.8,9,200,269.97,2025-08,Saturday,1,30-44,Medium,First-Time | VIP | Medium
+39,Male,USA,2025-08-04,Economy,60,4,168.83,18.25,1,8.2,9,240,427.08000000000004,2025-08,Monday,0,30-44,High,Repeat | Economy | High
+66,Female,Germany,2025-04-09,Economy,60,3,44.2,5.76,1,7.1,9,180,229.95999999999998,2025-04,Wednesday,0,60+,Low,Repeat | Economy | Low
+69,Male,Sweden,2025-02-19,Economy,60,1,28.31,11.81,0,9.9,10,60,100.12,2025-02,Wednesday,0,60+,Low,First-Time | Economy | Low
+59,Other,Sweden,2025-01-07,High Economy,100,2,21.33,18.41,0,7.2,7,200,239.73999999999998,2025-01,Tuesday,0,45-59,Low,First-Time | High Economy | Low
+23,Female,Japan,2025-01-23,Economy,60,3,24.11,9.01,0,6.9,10,180,213.12,2025-01,Thursday,0,18-29,Low,First-Time | Economy | Low
+32,Female,USA,2025-07-23,Economy,60,3,117.38,17.21,0,9.3,9,180,314.59,2025-07,Wednesday,0,30-44,Medium,First-Time | Economy | Medium
+60,Other,UK,2025-08-15,High Economy,100,4,66.5,11.28,1,8.2,7,400,477.78,2025-08,Friday,0,60+,High,Repeat | High Economy | High
+54,Male,USA,2025-05-25,High Economy,100,4,36.43,17.58,0,10.0,8,400,454.01,2025-05,Sunday,1,45-59,High,First-Time | High Economy | High
+50,Other,Germany,2025-07-02,High Economy,100,2,29.53,55.24,0,7.9,8,200,284.77,2025-07,Wednesday,0,45-59,Medium,First-Time | High Economy | Medium
+25,Male,Sweden,2025-07-13,High Economy,100,1,84.75,27.55,0,7.0,7,100,212.3,2025-07,Sunday,1,18-29,Low,First-Time | High Economy | Low
+61,Female,USA,2025-04-25,High Economy,100,4,15.28,12.02,1,8.4,9,400,427.29999999999995,2025-04,Friday,0,60+,High,Repeat | High Economy | High
+61,Male,UK,2025-06-21,High Economy,100,4,18.48,46.53,0,7.3,8,400,465.01,2025-06,Saturday,1,60+,High,First-Time | High Economy | High
+22,Female,Japan,2025-06-07,Premium,150,3,91.39,27.05,1,7.1,8,450,568.4399999999999,2025-06,Saturday,1,18-29,High,Repeat | Premium | High
+56,Male,USA,2025-05-09,VIP,200,4,64.38,9.12,0,9.2,10,800,873.5,2025-05,Friday,0,45-59,High,First-Time | VIP | High
+21,Female,France,2025-05-07,VIP,200,4,21.4,8.35,1,10.0,8,800,829.75,2025-05,Wednesday,0,18-29,High,Repeat | VIP | High
+23,Female,Japan,2025-07-19,Premium,150,4,54.39,28.26,0,7.6,10,600,682.65,2025-07,Saturday,1,18-29,High,First-Time | Premium | High
+62,Other,UK,2025-09-01,VIP,200,4,24.12,16.38,0,6.5,7,800,840.5,2025-09,Monday,0,60+,High,First-Time | VIP | High
+49,Male,Germany,2025-06-06,High Economy,100,3,52.77,5.67,1,7.8,6,300,358.44,2025-06,Friday,0,45-59,Medium,Repeat | High Economy | Medium
+69,Female,Sweden,2025-04-02,Premium,150,2,47.9,14.86,0,8.8,8,300,362.76,2025-04,Wednesday,0,60+,Medium,First-Time | Premium | Medium
+47,Female,USA,2025-01-28,Economy,60,2,34.04,10.37,0,8.4,4,120,164.41,2025-01,Tuesday,0,45-59,Low,First-Time | Economy | Low
+64,Male,UK,2025-07-20,VIP,200,1,34.12,7.44,0,9.8,9,200,241.56,2025-07,Sunday,1,60+,Low,First-Time | VIP | Low
+52,Male,Japan,2025-05-16,Premium,150,4,19.68,12.83,1,9.0,6,600,632.51,2025-05,Friday,0,45-59,High,Repeat | Premium | High
+57,Male,France,2025-02-05,Economy,60,3,37.1,15.64,1,6.3,7,180,232.74,2025-02,Wednesday,0,45-59,Low,Repeat | Economy | Low
+69,Female,UK,2025-05-04,High Economy,100,1,133.33,42.4,0,7.3,9,100,275.73,2025-05,Sunday,1,60+,Medium,First-Time | High Economy | Medium
+33,Female,Australia,2025-08-28,VIP,200,1,50.35,30.47,0,5.9,8,200,280.82,2025-08,Thursday,0,30-44,Medium,First-Time | VIP | Medium
+30,Female,France,2025-01-28,Economy,60,2,183.75,14.47,1,9.7,7,120,318.22,2025-01,Tuesday,0,30-44,Medium,Repeat | Economy | Medium
+67,Male,Japan,2025-03-13,Economy,60,3,9.2,2.39,0,5.0,5,180,191.58999999999997,2025-03,Thursday,0,60+,Low,First-Time | Economy | Low
+59,Male,Germany,2025-04-26,Premium,150,3,32.11,7.72,1,6.1,10,450,489.83000000000004,2025-04,Saturday,1,45-59,High,Repeat | Premium | High
+47,Male,Sweden,2025-06-30,Premium,150,3,74.75,14.32,0,7.2,9,450,539.07,2025-06,Monday,0,45-59,High,First-Time | Premium | High
+36,Other,Japan,2025-02-17,Economy,60,2,215.44,4.44,1,8.8,10,120,339.88,2025-02,Monday,0,30-44,Medium,Repeat | Economy | Medium
+34,Male,Germany,2025-08-23,High Economy,100,2,12.93,11.4,1,7.2,7,200,224.33,2025-08,Saturday,1,30-44,Low,Repeat | High Economy | Low
+36,Male,USA,2025-08-10,High Economy,100,2,48.63,23.13,1,7.5,6,200,271.76,2025-08,Sunday,1,30-44,Medium,Repeat | High Economy | Medium
+45,Male,UK,2025-01-25,Economy,60,2,70.03,22.2,0,7.5,10,120,212.23,2025-01,Saturday,1,45-59,Low,First-Time | Economy | Low
+43,Female,Australia,2025-07-01,Premium,150,2,119.77,8.33,0,8.3,8,300,428.09999999999997,2025-07,Tuesday,0,30-44,High,First-Time | Premium | High
+54,Other,France,2025-07-26,High Economy,100,4,32.43,13.42,0,6.2,9,400,445.85,2025-07,Saturday,1,45-59,High,First-Time | High Economy | High
+43,Female,France,2025-03-14,Premium,150,4,40.21,13.38,0,6.6,10,600,653.59,2025-03,Friday,0,30-44,High,First-Time | Premium | High
+40,Female,UK,2025-06-09,Economy,60,3,20.28,34.52,0,10.0,9,180,234.8,2025-06,Monday,0,30-44,Low,First-Time | Economy | Low
+26,Female,Australia,2025-06-13,High Economy,100,1,37.83,21.02,0,8.6,8,100,158.85,2025-06,Friday,0,18-29,Low,First-Time | High Economy | Low
+29,Male,UK,2025-04-21,High Economy,100,3,44.02,7.65,1,9.1,8,300,351.66999999999996,2025-04,Monday,0,18-29,Medium,Repeat | High Economy | Medium
+18,Other,USA,2025-07-04,Premium,150,1,67.38,15.69,0,8.1,6,150,233.07,2025-07,Friday,0,18-29,Low,First-Time | Premium | Low
+18,Female,Germany,2025-07-28,Premium,150,2,85.67,17.64,0,7.8,10,300,403.31,2025-07,Monday,0,18-29,Medium,First-Time | Premium | Medium
+64,Female,Japan,2025-08-23,High Economy,100,1,15.36,19.93,0,8.7,10,100,135.29,2025-08,Saturday,1,60+,Low,First-Time | High Economy | Low
+51,Female,France,2025-04-22,Economy,60,3,28.62,10.26,0,9.1,9,180,218.88,2025-04,Tuesday,0,45-59,Low,First-Time | Economy | Low
+49,Female,USA,2025-02-04,High Economy,100,3,64.47,25.75,0,9.3,6,300,390.22,2025-02,Tuesday,0,45-59,Medium,First-Time | High Economy | Medium
+65,Female,Germany,2025-01-12,VIP,200,1,10.18,10.55,0,7.8,8,200,220.73000000000002,2025-01,Sunday,1,60+,Low,First-Time | VIP | Low
+42,Other,USA,2025-01-28,Economy,60,4,148.45,34.95,1,9.4,10,240,423.4,2025-01,Tuesday,0,30-44,High,Repeat | Economy | High
+57,Other,Australia,2025-01-01,VIP,200,2,112.05,19.81,0,4.3,7,400,531.8599999999999,2025-01,Wednesday,0,45-59,High,First-Time | VIP | High
+62,Female,France,2025-04-09,Economy,60,2,70.9,16.06,0,9.3,10,120,206.96,2025-04,Wednesday,0,60+,Low,First-Time | Economy | Low
+18,Female,Japan,2025-03-17,VIP,200,3,81.74,30.59,0,7.4,8,600,712.33,2025-03,Monday,0,18-29,High,First-Time | VIP | High
+33,Male,UK,2025-04-25,High Economy,100,4,106.27,6.49,1,8.8,9,400,512.76,2025-04,Friday,0,30-44,High,Repeat | High Economy | High
+56,Female,UK,2025-06-30,VIP,200,1,110.18,34.32,0,7.0,7,200,344.5,2025-06,Monday,0,45-59,Medium,First-Time | VIP | Medium
+22,Male,Germany,2025-05-28,Economy,60,2,72.44,30.34,1,6.0,8,120,222.78,2025-05,Wednesday,0,18-29,Low,Repeat | Economy | Low
+39,Female,Japan,2025-01-09,High Economy,100,4,17.04,25.25,0,8.5,9,400,442.29,2025-01,Thursday,0,30-44,High,First-Time | High Economy | High
+46,Other,Sweden,2025-06-03,VIP,200,2,63.52,8.96,1,5.7,6,400,472.47999999999996,2025-06,Tuesday,0,45-59,High,Repeat | VIP | High
+20,Female,Australia,2025-03-17,Premium,150,4,113.45,26.77,0,7.4,8,600,740.22,2025-03,Monday,0,18-29,High,First-Time | Premium | High
+29,Female,Germany,2025-08-18,Premium,150,4,56.76,35.96,0,6.8,4,600,692.72,2025-08,Monday,0,18-29,High,First-Time | Premium | High
+43,Male,Sweden,2025-09-04,Premium,150,3,92.48,18.19,0,7.7,7,450,560.6700000000001,2025-09,Thursday,0,30-44,High,First-Time | Premium | High
+33,Male,USA,2025-03-02,Economy,60,2,82.41,19.85,0,9.2,9,120,222.26,2025-03,Sunday,1,30-44,Low,First-Time | Economy | Low
+68,Female,Australia,2025-02-21,High Economy,100,1,92.04,9.38,0,7.3,10,100,201.42000000000002,2025-02,Friday,0,60+,Low,First-Time | High Economy | Low
+54,Male,USA,2025-05-07,Economy,60,3,33.11,20.69,1,8.5,9,180,233.8,2025-05,Wednesday,0,45-59,Low,Repeat | Economy | Low
+39,Male,Japan,2025-01-08,High Economy,100,3,90.22,7.53,0,9.1,6,300,397.75,2025-01,Wednesday,0,30-44,Medium,First-Time | High Economy | Medium
+46,Male,France,2025-06-16,High Economy,100,1,24.75,26.13,1,7.1,10,100,150.88,2025-06,Monday,0,45-59,Low,Repeat | High Economy | Low
+31,Female,Australia,2025-04-02,VIP,200,3,24.92,22.41,1,7.1,6,600,647.3299999999999,2025-04,Wednesday,0,30-44,High,Repeat | VIP | High
+45,Female,Sweden,2025-02-15,Premium,150,4,36.83,10.19,0,10.0,9,600,647.0200000000001,2025-02,Saturday,1,45-59,High,First-Time | Premium | High
+22,Male,France,2025-07-01,Economy,60,4,78.71,28.73,1,7.9,6,240,347.44,2025-07,Tuesday,0,18-29,Medium,Repeat | Economy | Medium
+64,Female,UK,2025-02-18,Economy,60,2,62.09,15.07,0,8.8,7,120,197.16,2025-02,Tuesday,0,60+,Low,First-Time | Economy | Low
+66,Female,Sweden,2025-06-06,Premium,150,2,58.25,17.72,0,8.8,7,300,375.97,2025-06,Friday,0,60+,Medium,First-Time | Premium | Medium
+47,Female,Germany,2025-08-27,Premium,150,1,41.23,17.07,1,6.2,8,150,208.29999999999998,2025-08,Wednesday,0,45-59,Low,Repeat | Premium | Low
+63,Female,UK,2025-03-24,High Economy,100,2,49.56,15.06,0,6.9,8,200,264.62,2025-03,Monday,0,60+,Medium,First-Time | High Economy | Medium
+69,Male,UK,2025-01-05,Economy,60,4,20.2,10.14,0,8.6,9,240,270.34,2025-01,Sunday,1,60+,Medium,First-Time | Economy | Medium
+22,Female,Germany,2025-01-21,Premium,150,1,19.1,20.67,0,4.9,8,150,189.76999999999998,2025-01,Tuesday,0,18-29,Low,First-Time | Premium | Low
+29,Female,Australia,2025-01-30,High Economy,100,1,76.2,27.61,0,7.7,6,100,203.81,2025-01,Thursday,0,18-29,Low,First-Time | High Economy | Low
+33,Female,UK,2025-04-11,Economy,60,2,6.57,25.98,1,6.7,8,120,152.54999999999998,2025-04,Friday,0,30-44,Low,Repeat | Economy | Low
+43,Female,Japan,2025-04-06,VIP,200,4,121.38,6.74,0,9.7,5,800,928.12,2025-04,Sunday,1,30-44,High,First-Time | VIP | High
+43,Male,Sweden,2025-02-25,VIP,200,1,59.3,15.06,0,8.5,7,200,274.36,2025-02,Tuesday,0,30-44,Medium,First-Time | VIP | Medium
+65,Male,France,2025-02-08,High Economy,100,4,34.93,8.58,0,9.8,8,400,443.51,2025-02,Saturday,1,60+,High,First-Time | High Economy | High
+38,Female,UK,2025-08-24,Economy,60,4,2.71,18.66,0,7.9,7,240,261.37,2025-08,Sunday,1,30-44,Medium,First-Time | Economy | Medium
+56,Female,Sweden,2025-08-01,Premium,150,4,25.08,4.47,0,7.8,6,600,629.5500000000001,2025-08,Friday,0,45-59,High,First-Time | Premium | High
+53,Female,USA,2025-06-16,High Economy,100,2,43.21,4.62,0,7.5,10,200,247.83,2025-06,Monday,0,45-59,Low,First-Time | High Economy | Low
+50,Female,Sweden,2025-02-12,High Economy,100,3,6.0,10.12,0,7.2,10,300,316.12,2025-02,Wednesday,0,45-59,Medium,First-Time | High Economy | Medium
+47,Female,France,2025-02-19,High Economy,100,3,36.22,35.46,0,10.0,10,300,371.68,2025-02,Wednesday,0,45-59,Medium,First-Time | High Economy | Medium
+54,Female,Sweden,2025-05-04,High Economy,100,1,108.89,17.73,1,9.2,10,100,226.61999999999998,2025-05,Sunday,1,45-59,Low,Repeat | High Economy | Low
+40,Male,Germany,2025-06-30,High Economy,100,4,48.66,9.53,0,6.4,7,400,458.18999999999994,2025-06,Monday,0,30-44,High,First-Time | High Economy | High
+27,Female,France,2025-04-02,High Economy,100,2,122.5,22.36,1,10.0,7,200,344.86,2025-04,Wednesday,0,18-29,Medium,Repeat | High Economy | Medium
+22,Male,Australia,2025-04-15,High Economy,100,4,25.84,19.61,1,7.4,7,400,445.45,2025-04,Tuesday,0,18-29,High,Repeat | High Economy | High
+53,Female,USA,2025-02-09,High Economy,100,4,10.41,38.55,1,8.5,10,400,448.96000000000004,2025-02,Sunday,1,45-59,High,Repeat | High Economy | High
+51,Other,Germany,2025-03-17,High Economy,100,2,70.56,19.67,1,9.4,8,200,290.23,2025-03,Monday,0,45-59,Medium,Repeat | High Economy | Medium
+69,Male,Australia,2025-03-27,Economy,60,3,81.2,12.97,0,5.7,10,180,274.17,2025-03,Thursday,0,60+,Medium,First-Time | Economy | Medium
+48,Male,Sweden,2025-07-15,VIP,200,4,105.64,26.8,0,6.8,10,800,932.4399999999999,2025-07,Tuesday,0,45-59,High,First-Time | VIP | High
+27,Male,France,2025-03-08,Economy,60,4,129.42,6.7,0,10.0,8,240,376.11999999999995,2025-03,Saturday,1,18-29,Medium,First-Time | Economy | Medium
+36,Other,USA,2025-01-06,Economy,60,3,48.52,13.79,0,7.7,6,180,242.31,2025-01,Monday,0,30-44,Low,First-Time | Economy | Low
+49,Male,Germany,2025-01-14,Premium,150,2,114.98,11.08,1,9.5,8,300,426.06,2025-01,Tuesday,0,45-59,High,Repeat | Premium | High
+18,Male,Australia,2025-08-05,High Economy,100,1,242.67,8.06,0,7.3,8,100,350.72999999999996,2025-08,Tuesday,0,18-29,Medium,First-Time | High Economy | Medium
+22,Male,Australia,2025-08-14,High Economy,100,3,94.85,10.19,1,7.9,10,300,405.04,2025-08,Thursday,0,18-29,Medium,Repeat | High Economy | Medium
+62,Male,USA,2025-01-27,Premium,150,1,26.12,12.72,0,10.0,8,150,188.84,2025-01,Monday,0,60+,Low,First-Time | Premium | Low
+21,Male,Japan,2025-04-21,Premium,150,1,49.08,19.13,1,8.7,6,150,218.20999999999998,2025-04,Monday,0,18-29,Low,Repeat | Premium | Low
+33,Female,Sweden,2025-02-17,VIP,200,3,69.11,2.41,0,7.5,10,600,671.52,2025-02,Monday,0,30-44,High,First-Time | VIP | High
+41,Female,USA,2025-03-03,Premium,150,4,66.22,15.5,0,7.0,8,600,681.72,2025-03,Monday,0,30-44,High,First-Time | Premium | High
+33,Male,Australia,2025-08-03,Economy,60,1,43.36,18.79,0,7.1,4,60,122.15,2025-08,Sunday,1,30-44,Low,First-Time | Economy | Low
+19,Male,UK,2025-03-17,Premium,150,1,139.02,29.06,1,9.9,9,150,318.08,2025-03,Monday,0,18-29,Medium,Repeat | Premium | Medium
+66,Male,Germany,2025-02-25,Economy,60,2,9.99,7.03,0,9.1,9,120,137.02,2025-02,Tuesday,0,60+,Low,First-Time | Economy | Low
+45,Male,USA,2025-09-03,High Economy,100,4,51.51,25.0,1,6.3,7,400,476.51,2025-09,Wednesday,0,45-59,High,Repeat | High Economy | High
+49,Female,Japan,2025-07-06,Economy,60,1,67.68,10.04,1,8.1,8,60,137.72,2025-07,Sunday,1,45-59,Low,Repeat | Economy | Low
+44,Female,Australia,2025-08-20,High Economy,100,2,27.51,7.86,1,7.9,9,200,235.37,2025-08,Wednesday,0,30-44,Low,Repeat | High Economy | Low
+37,Male,Sweden,2025-08-20,VIP,200,4,109.89,11.33,0,8.5,9,800,921.22,2025-08,Wednesday,0,30-44,High,First-Time | VIP | High
+41,Female,Australia,2025-06-04,High Economy,100,3,63.46,12.76,1,7.1,6,300,376.21999999999997,2025-06,Wednesday,0,30-44,Medium,Repeat | High Economy | Medium
+29,Male,Sweden,2025-05-30,VIP,200,3,57.11,7.7,1,9.6,10,600,664.8100000000001,2025-05,Friday,0,18-29,High,Repeat | VIP | High
+67,Female,USA,2025-04-21,High Economy,100,2,78.42,36.51,0,8.0,10,200,314.93,2025-04,Monday,0,60+,Medium,First-Time | High Economy | Medium
+52,Female,Sweden,2025-07-06,Economy,60,3,57.58,16.49,0,8.6,7,180,254.07,2025-07,Sunday,1,45-59,Medium,First-Time | Economy | Medium
+50,Female,France,2025-02-06,Premium,150,1,88.85,30.51,0,6.8,5,150,269.36,2025-02,Thursday,0,45-59,Medium,First-Time | Premium | Medium
+50,Male,France,2025-07-03,Premium,150,4,4.74,19.59,0,6.9,9,600,624.33,2025-07,Thursday,0,45-59,High,First-Time | Premium | High
+68,Other,France,2025-07-14,Economy,60,1,7.37,50.94,0,10.0,7,60,118.31,2025-07,Monday,0,60+,Low,First-Time | Economy | Low
+60,Male,Japan,2025-03-11,Economy,60,1,96.17,35.24,1,10.0,9,60,191.41000000000003,2025-03,Tuesday,0,60+,Low,Repeat | Economy | Low
+54,Male,Japan,2025-02-15,High Economy,100,3,49.96,12.23,0,7.9,10,300,362.19,2025-02,Saturday,1,45-59,Medium,First-Time | High Economy | Medium
+29,Male,UK,2025-02-07,Premium,150,1,26.92,10.28,0,10.0,6,150,187.20000000000002,2025-02,Friday,0,18-29,Low,First-Time | Premium | Low
+20,Male,Japan,2025-02-23,High Economy,100,3,62.91,21.46,1,9.8,7,300,384.36999999999995,2025-02,Sunday,1,18-29,Medium,Repeat | High Economy | Medium
+18,Other,USA,2025-04-25,Premium,150,4,48.83,20.62,0,7.1,8,600,669.45,2025-04,Friday,0,18-29,High,First-Time | Premium | High
+50,Female,Australia,2025-04-08,Economy,60,4,24.71,13.94,1,6.9,10,240,278.65,2025-04,Tuesday,0,45-59,Medium,Repeat | Economy | Medium
+57,Male,Australia,2025-05-30,Economy,60,1,194.52,44.74,0,9.0,10,60,299.26,2025-05,Friday,0,45-59,Medium,First-Time | Economy | Medium
+27,Female,UK,2025-07-01,Economy,60,2,139.68,40.07,0,8.4,8,120,299.75,2025-07,Tuesday,0,18-29,Medium,First-Time | Economy | Medium
+60,Other,Japan,2025-07-02,Economy,60,3,30.63,18.15,0,7.4,6,180,228.78,2025-07,Wednesday,0,60+,Low,First-Time | Economy | Low
+61,Female,Sweden,2025-03-07,VIP,200,3,31.02,37.11,0,9.1,8,600,668.13,2025-03,Friday,0,60+,High,First-Time | VIP | High
+46,Female,UK,2025-03-06,Economy,60,1,25.81,10.61,0,5.8,7,60,96.42,2025-03,Thursday,0,45-59,Low,First-Time | Economy | Low
+30,Other,Sweden,2025-03-24,Economy,60,3,35.99,21.47,1,8.2,9,180,237.46,2025-03,Monday,0,30-44,Low,Repeat | Economy | Low
+29,Other,Sweden,2025-09-08,VIP,200,3,83.96,15.7,0,6.1,9,600,699.6600000000001,2025-09,Monday,0,18-29,High,First-Time | VIP | High
+48,Female,Germany,2025-03-31,Economy,60,2,54.32,12.31,1,6.2,6,120,186.63,2025-03,Monday,0,45-59,Low,Repeat | Economy | Low
+63,Male,Australia,2025-02-10,Premium,150,2,35.5,7.0,0,6.9,7,300,342.5,2025-02,Monday,0,60+,Medium,First-Time | Premium | Medium
+19,Male,France,2025-04-07,High Economy,100,1,45.45,24.23,0,8.5,8,100,169.67999999999998,2025-04,Monday,0,18-29,Low,First-Time | High Economy | Low
+68,Female,Japan,2025-05-20,Economy,60,2,35.82,6.58,0,7.0,8,120,162.4,2025-05,Tuesday,0,60+,Low,First-Time | Economy | Low
+67,Male,Sweden,2025-08-24,High Economy,100,1,23.64,26.11,0,6.2,8,100,149.75,2025-08,Sunday,1,60+,Low,First-Time | High Economy | Low
+52,Female,Germany,2025-03-05,VIP,200,4,19.82,15.62,1,8.7,8,800,835.44,2025-03,Wednesday,0,45-59,High,Repeat | VIP | High
+40,Male,Australia,2025-01-10,High Economy,100,1,18.53,61.13,1,10.0,10,100,179.66,2025-01,Friday,0,30-44,Low,Repeat | High Economy | Low
+34,Male,France,2025-06-26,High Economy,100,4,62.0,24.81,1,9.0,7,400,486.81,2025-06,Thursday,0,30-44,High,Repeat | High Economy | High
+43,Male,Sweden,2025-02-24,Economy,60,1,103.44,21.22,0,10.0,7,60,184.66,2025-02,Monday,0,30-44,Low,First-Time | Economy | Low
+25,Male,Sweden,2025-04-17,High Economy,100,3,56.77,21.02,0,10.0,6,300,377.78999999999996,2025-04,Thursday,0,18-29,Medium,First-Time | High Economy | Medium
+46,Other,UK,2025-04-23,Premium,150,2,5.73,4.43,0,7.3,8,300,310.16,2025-04,Wednesday,0,45-59,Medium,First-Time | Premium | Medium
+43,Female,UK,2025-08-03,Economy,60,4,60.78,2.7,1,8.9,8,240,303.47999999999996,2025-08,Sunday,1,30-44,Medium,Repeat | Economy | Medium
+27,Female,Australia,2025-07-30,High Economy,100,1,29.53,12.87,0,7.9,5,100,142.4,2025-07,Wednesday,0,18-29,Low,First-Time | High Economy | Low
+43,Female,France,2025-05-01,High Economy,100,2,20.23,19.16,0,9.6,8,200,239.39,2025-05,Thursday,0,30-44,Low,First-Time | High Economy | Low
+51,Male,Sweden,2025-09-04,High Economy,100,1,13.14,32.88,0,7.9,10,100,146.02,2025-09,Thursday,0,45-59,Low,First-Time | High Economy | Low
+68,Female,Australia,2025-09-08,Economy,60,2,20.18,11.35,0,6.8,9,120,151.53,2025-09,Monday,0,60+,Low,First-Time | Economy | Low
+58,Female,Australia,2025-04-30,High Economy,100,2,20.77,142.82,0,10.0,9,200,363.59000000000003,2025-04,Wednesday,0,45-59,Medium,First-Time | High Economy | Medium
+24,Female,USA,2025-05-22,High Economy,100,1,9.86,9.03,0,8.5,9,100,118.89,2025-05,Thursday,0,18-29,Low,First-Time | High Economy | Low
+21,Male,Japan,2025-04-07,VIP,200,4,20.79,13.71,1,7.0,7,800,834.5,2025-04,Monday,0,18-29,High,Repeat | VIP | High
+67,Female,UK,2025-05-05,VIP,200,4,73.39,16.39,1,7.3,7,800,889.78,2025-05,Monday,0,60+,High,Repeat | VIP | High
+62,Female,France,2025-08-19,Premium,150,3,117.86,16.3,0,7.0,10,450,584.16,2025-08,Tuesday,0,60+,High,First-Time | Premium | High
+28,Other,Sweden,2025-02-21,Premium,150,2,6.3,7.12,0,6.5,9,300,313.42,2025-02,Friday,0,18-29,Medium,First-Time | Premium | Medium
+46,Female,Australia,2025-07-22,High Economy,100,3,91.85,21.9,0,7.3,7,300,413.75,2025-07,Tuesday,0,45-59,Medium,First-Time | High Economy | Medium
+53,Female,Sweden,2025-02-03,Economy,60,3,43.44,18.28,1,8.6,5,180,241.72,2025-02,Monday,0,45-59,Low,Repeat | Economy | Low
+42,Female,USA,2025-07-11,High Economy,100,1,13.73,23.93,1,8.1,7,100,137.66,2025-07,Friday,0,30-44,Low,Repeat | High Economy | Low
+38,Female,France,2025-02-18,Economy,60,1,35.26,2.89,1,7.3,9,60,98.14999999999999,2025-02,Tuesday,0,30-44,Low,Repeat | Economy | Low
+53,Male,Australia,2025-08-21,Economy,60,1,70.56,18.77,1,10.0,7,60,149.33,2025-08,Thursday,0,45-59,Low,Repeat | Economy | Low
+27,Female,Sweden,2025-08-16,Economy,60,2,51.02,1.93,0,5.0,9,120,172.95000000000002,2025-08,Saturday,1,18-29,Low,First-Time | Economy | Low
+54,Female,UK,2025-07-06,High Economy,100,1,8.41,14.5,1,8.5,10,100,122.91,2025-07,Sunday,1,45-59,Low,Repeat | High Economy | Low
+26,Female,Japan,2025-05-27,High Economy,100,1,47.82,21.37,0,7.8,8,100,169.19,2025-05,Tuesday,0,18-29,Low,First-Time | High Economy | Low
+41,Male,USA,2025-07-16,High Economy,100,2,84.14,26.99,0,6.5,8,200,311.13,2025-07,Wednesday,0,30-44,Medium,First-Time | High Economy | Medium
+52,Male,France,2025-04-12,VIP,200,2,75.09,13.1,1,8.5,9,400,488.19000000000005,2025-04,Saturday,1,45-59,High,Repeat | VIP | High
+66,Female,USA,2025-06-19,Premium,150,4,36.43,10.92,0,7.7,6,600,647.3499999999999,2025-06,Thursday,0,60+,High,First-Time | Premium | High
+52,Male,UK,2025-04-21,Economy,60,1,49.42,5.65,0,9.9,7,60,115.07000000000001,2025-04,Monday,0,45-59,Low,First-Time | Economy | Low
+65,Female,France,2025-07-01,Economy,60,1,38.12,2.8,0,9.3,9,60,100.92,2025-07,Tuesday,0,60+,Low,First-Time | Economy | Low
+53,Male,USA,2025-03-12,Premium,150,1,71.93,17.3,0,10.0,8,150,239.23000000000002,2025-03,Wednesday,0,45-59,Low,First-Time | Premium | Low
+35,Male,Germany,2025-03-31,High Economy,100,4,75.15,1.29,1,7.3,8,400,476.44,2025-03,Monday,0,30-44,High,Repeat | High Economy | High
+66,Other,UK,2025-09-03,Economy,60,1,4.2,16.98,0,10.0,8,60,81.18,2025-09,Wednesday,0,60+,Low,First-Time | Economy | Low
+56,Female,UK,2025-01-19,VIP,200,4,84.57,6.71,0,6.3,10,800,891.28,2025-01,Sunday,1,45-59,High,First-Time | VIP | High
+49,Male,UK,2025-09-01,Premium,150,3,68.62,2.43,0,7.8,9,450,521.05,2025-09,Monday,0,45-59,High,First-Time | Premium | High
+41,Male,Germany,2025-08-03,Economy,60,4,29.21,9.45,0,7.3,9,240,278.65999999999997,2025-08,Sunday,1,30-44,Medium,First-Time | Economy | Medium
+40,Male,Germany,2025-04-13,High Economy,100,3,101.46,9.33,0,8.9,10,300,410.78999999999996,2025-04,Sunday,1,30-44,Medium,First-Time | High Economy | Medium
+49,Female,Sweden,2025-01-24,VIP,200,1,38.16,5.5,0,8.9,10,200,243.66,2025-01,Friday,0,45-59,Low,First-Time | VIP | Low
+54,Male,Australia,2025-01-09,High Economy,100,3,24.28,13.01,0,6.6,10,300,337.28999999999996,2025-01,Thursday,0,45-59,Medium,First-Time | High Economy | Medium
+29,Female,Japan,2025-07-13,Economy,60,4,29.58,18.28,1,9.0,7,240,287.86,2025-07,Sunday,1,18-29,Medium,Repeat | Economy | Medium
+66,Other,USA,2025-02-10,High Economy,100,2,51.89,7.78,1,7.4,10,200,259.66999999999996,2025-02,Monday,0,60+,Medium,Repeat | High Economy | Medium
+30,Male,Sweden,2025-05-07,Premium,150,3,35.14,8.69,0,6.8,6,450,493.83,2025-05,Wednesday,0,30-44,High,First-Time | Premium | High
+40,Female,USA,2025-06-23,Premium,150,3,28.88,12.67,0,8.0,10,450,491.55,2025-06,Monday,0,30-44,High,First-Time | Premium | High
+42,Other,Japan,2025-06-15,High Economy,100,1,25.02,20.01,0,5.8,7,100,145.03,2025-06,Sunday,1,30-44,Low,First-Time | High Economy | Low
+52,Male,Australia,2025-06-30,High Economy,100,4,77.46,25.44,1,9.4,8,400,502.9,2025-06,Monday,0,45-59,High,Repeat | High Economy | High
+58,Female,Germany,2025-05-22,Economy,60,3,73.18,56.28,0,7.9,8,180,309.46000000000004,2025-05,Thursday,0,45-59,Medium,First-Time | Economy | Medium
+47,Female,Australia,2025-02-02,VIP,200,3,6.01,0.51,1,7.9,7,600,606.52,2025-02,Sunday,1,45-59,High,Repeat | VIP | High
+34,Other,Germany,2025-07-30,Economy,60,3,31.17,12.17,1,7.9,8,180,223.34,2025-07,Wednesday,0,30-44,Low,Repeat | Economy | Low
+66,Female,Japan,2025-02-14,VIP,200,3,83.02,30.82,1,10.0,7,600,713.84,2025-02,Friday,0,60+,High,Repeat | VIP | High
+37,Female,Australia,2025-08-25,Premium,150,2,47.0,37.41,1,10.0,6,300,384.40999999999997,2025-08,Monday,0,30-44,Medium,Repeat | Premium | Medium
+65,Female,Sweden,2025-01-17,VIP,200,4,86.98,38.45,0,10.0,8,800,925.4300000000001,2025-01,Friday,0,60+,High,First-Time | VIP | High
+42,Female,France,2025-04-13,Premium,150,1,106.89,42.03,0,7.9,10,150,298.91999999999996,2025-04,Sunday,1,30-44,Medium,First-Time | Premium | Medium
+39,Female,Sweden,2025-08-10,High Economy,100,1,106.21,46.95,1,6.3,8,100,253.15999999999997,2025-08,Sunday,1,30-44,Medium,Repeat | High Economy | Medium
+30,Female,USA,2025-08-12,High Economy,100,2,94.87,17.2,0,8.0,9,200,312.07,2025-08,Tuesday,0,30-44,Medium,First-Time | High Economy | Medium
+36,Female,Sweden,2025-03-26,Premium,150,4,40.51,42.31,0,8.5,7,600,682.8199999999999,2025-03,Wednesday,0,30-44,High,First-Time | Premium | High
+66,Male,Japan,2025-08-16,High Economy,100,3,32.99,5.99,0,9.2,6,300,338.98,2025-08,Saturday,1,60+,Medium,First-Time | High Economy | Medium
+53,Male,UK,2025-04-21,VIP,200,2,44.09,14.52,0,8.5,9,400,458.61,2025-04,Monday,0,45-59,High,First-Time | VIP | High
+29,Male,USA,2025-08-07,Economy,60,4,35.48,13.64,1,6.5,10,240,289.12,2025-08,Thursday,0,18-29,Medium,Repeat | Economy | Medium
+58,Male,Australia,2025-01-20,Economy,60,3,96.72,10.75,0,7.2,8,180,287.47,2025-01,Monday,0,45-59,Medium,First-Time | Economy | Medium
+36,Male,USA,2025-02-02,Premium,150,2,73.41,6.27,0,7.1,9,300,379.67999999999995,2025-02,Sunday,1,30-44,Medium,First-Time | Premium | Medium
+29,Other,France,2025-02-11,High Economy,100,4,52.24,33.94,1,8.8,10,400,486.18,2025-02,Tuesday,0,18-29,High,Repeat | High Economy | High
+26,Male,Germany,2025-01-24,Premium,150,1,15.33,15.6,1,8.8,8,150,180.93,2025-01,Friday,0,18-29,Low,Repeat | Premium | Low
+24,Female,Australia,2025-01-24,VIP,200,1,72.34,16.38,0,9.0,8,200,288.72,2025-01,Friday,0,18-29,Medium,First-Time | VIP | Medium
+45,Male,USA,2025-01-25,Premium,150,4,106.84,6.36,0,8.5,9,600,713.2,2025-01,Saturday,1,45-59,High,First-Time | Premium | High
+31,Female,Australia,2025-05-29,Economy,60,1,28.4,22.61,0,4.9,9,60,111.01,2025-05,Thursday,0,30-44,Low,First-Time | Economy | Low
+48,Other,Australia,2025-05-26,High Economy,100,4,98.99,35.01,0,5.4,6,400,534.0,2025-05,Monday,0,45-59,High,First-Time | High Economy | High
+69,Female,Australia,2025-04-21,VIP,200,3,68.32,21.08,0,7.8,8,600,689.4,2025-04,Monday,0,60+,High,First-Time | VIP | High
+36,Female,Germany,2025-04-15,Economy,60,4,203.14,7.42,0,8.1,8,240,450.56,2025-04,Tuesday,0,30-44,High,First-Time | Economy | High
+64,Male,Japan,2025-02-15,High Economy,100,3,43.39,36.13,1,9.9,7,300,379.52,2025-02,Saturday,1,60+,Medium,Repeat | High Economy | Medium
+33,Female,Sweden,2025-07-23,Economy,60,2,30.05,2.42,0,8.1,8,120,152.47,2025-07,Wednesday,0,30-44,Low,First-Time | Economy | Low
+22,Male,Australia,2025-06-18,High Economy,100,4,89.28,25.92,0,6.5,6,400,515.1999999999999,2025-06,Wednesday,0,18-29,High,First-Time | High Economy | High
+52,Other,UK,2025-08-17,High Economy,100,2,25.96,7.32,0,9.0,6,200,233.28,2025-08,Sunday,1,45-59,Low,First-Time | High Economy | Low
+29,Male,Japan,2025-02-09,VIP,200,1,51.51,41.55,0,8.0,8,200,293.06,2025-02,Sunday,1,18-29,Medium,First-Time | VIP | Medium
+42,Female,France,2025-01-19,Premium,150,3,62.82,55.83,1,7.4,9,450,568.6500000000001,2025-01,Sunday,1,30-44,High,Repeat | Premium | High
+69,Female,Germany,2025-07-12,Economy,60,4,86.94,9.54,0,5.6,8,240,336.48,2025-07,Saturday,1,60+,Medium,First-Time | Economy | Medium
+38,Male,USA,2025-01-24,Premium,150,2,108.34,12.49,0,8.1,7,300,420.83000000000004,2025-01,Friday,0,30-44,High,First-Time | Premium | High
+53,Male,Germany,2025-05-24,Economy,60,3,171.71,24.03,0,8.3,7,180,375.74,2025-05,Saturday,1,45-59,Medium,First-Time | Economy | Medium
+40,Male,USA,2025-02-25,High Economy,100,3,8.47,10.63,1,6.5,9,300,319.1,2025-02,Tuesday,0,30-44,Medium,Repeat | High Economy | Medium
+33,Male,Germany,2025-03-31,VIP,200,1,164.16,3.38,0,9.1,10,200,367.53999999999996,2025-03,Monday,0,30-44,Medium,First-Time | VIP | Medium
+56,Female,USA,2025-03-27,VIP,200,1,13.69,43.65,0,9.0,9,200,257.34,2025-03,Thursday,0,45-59,Medium,First-Time | VIP | Medium
+62,Male,Australia,2025-01-28,Premium,150,3,20.34,11.23,0,8.1,10,450,481.57,2025-01,Tuesday,0,60+,High,First-Time | Premium | High
+59,Male,Sweden,2025-06-16,Economy,60,3,79.75,20.98,1,8.0,6,180,280.73,2025-06,Monday,0,45-59,Medium,Repeat | Economy | Medium
+56,Male,USA,2025-07-31,High Economy,100,4,55.3,9.09,0,9.4,8,400,464.39,2025-07,Thursday,0,45-59,High,First-Time | High Economy | High
+31,Female,USA,2025-08-06,Premium,150,3,18.22,19.37,0,8.6,10,450,487.59000000000003,2025-08,Wednesday,0,30-44,High,First-Time | Premium | High
+48,Male,UK,2025-07-18,Premium,150,4,75.63,19.04,0,6.9,6,600,694.67,2025-07,Friday,0,45-59,High,First-Time | Premium | High
+22,Male,USA,2025-05-11,VIP,200,3,43.22,22.62,0,7.7,7,600,665.84,2025-05,Sunday,1,18-29,High,First-Time | VIP | High
+52,Male,UK,2025-01-06,High Economy,100,1,9.2,10.73,1,8.8,9,100,119.93,2025-01,Monday,0,45-59,Low,Repeat | High Economy | Low
+40,Male,France,2025-05-20,VIP,200,4,111.32,6.7,1,5.0,8,800,918.02,2025-05,Tuesday,0,30-44,High,Repeat | VIP | High
+46,Female,Australia,2025-04-17,Economy,60,2,24.49,9.53,0,6.6,7,120,154.02,2025-04,Thursday,0,45-59,Low,First-Time | Economy | Low
+60,Male,UK,2025-05-23,Premium,150,1,18.39,63.4,0,9.0,6,150,231.79,2025-05,Friday,0,60+,Low,First-Time | Premium | Low
+28,Male,Sweden,2025-03-20,Premium,150,4,51.53,27.41,0,9.8,10,600,678.9399999999999,2025-03,Thursday,0,18-29,High,First-Time | Premium | High
+35,Female,Japan,2025-07-22,High Economy,100,4,21.97,17.47,0,9.5,5,400,439.44000000000005,2025-07,Tuesday,0,30-44,High,First-Time | High Economy | High
+64,Female,Australia,2025-04-11,High Economy,100,2,75.37,5.39,0,9.3,9,200,280.76,2025-04,Friday,0,60+,Medium,First-Time | High Economy | Medium
+29,Male,UK,2025-08-26,Economy,60,4,42.58,23.28,0,8.2,7,240,305.86,2025-08,Tuesday,0,18-29,Medium,First-Time | Economy | Medium
+26,Female,Australia,2025-06-04,High Economy,100,3,63.44,52.42,0,6.5,10,300,415.86,2025-06,Wednesday,0,18-29,High,First-Time | High Economy | High
+27,Other,Australia,2025-01-12,VIP,200,2,28.24,19.57,0,7.7,6,400,447.81,2025-01,Sunday,1,18-29,High,First-Time | VIP | High
+61,Male,Australia,2025-08-22,High Economy,100,1,54.5,24.54,1,5.0,10,100,179.04,2025-08,Friday,0,60+,Low,Repeat | High Economy | Low
+34,Female,France,2025-08-09,Premium,150,1,22.86,7.42,1,10.0,9,150,180.28,2025-08,Saturday,1,30-44,Low,Repeat | Premium | Low
+55,Female,Sweden,2025-01-24,VIP,200,3,38.33,17.49,1,6.8,9,600,655.82,2025-01,Friday,0,45-59,High,Repeat | VIP | High
+24,Female,Germany,2025-07-14,Economy,60,1,48.33,50.91,0,7.2,7,60,159.24,2025-07,Monday,0,18-29,Low,First-Time | Economy | Low
+63,Male,Germany,2025-08-06,Economy,60,4,7.79,13.47,1,9.6,8,240,261.26,2025-08,Wednesday,0,60+,Medium,Repeat | Economy | Medium
+30,Male,UK,2025-08-31,Economy,60,4,100.8,37.63,0,5.6,8,240,378.43,2025-08,Sunday,1,30-44,Medium,First-Time | Economy | Medium
+57,Female,Australia,2025-03-13,High Economy,100,3,11.84,7.05,0,6.2,10,300,318.89,2025-03,Thursday,0,45-59,Medium,First-Time | High Economy | Medium
+59,Other,UK,2025-08-07,High Economy,100,1,19.76,21.75,1,8.4,9,100,141.51,2025-08,Thursday,0,45-59,Low,Repeat | High Economy | Low
+26,Female,France,2025-02-21,Premium,150,1,23.5,14.36,0,8.8,9,150,187.86,2025-02,Friday,0,18-29,Low,First-Time | Premium | Low
+67,Male,France,2025-05-31,Premium,150,3,72.84,36.63,0,7.9,9,450,559.47,2025-05,Saturday,1,60+,High,First-Time | Premium | High
+44,Female,USA,2025-04-20,Economy,60,2,31.08,42.28,0,7.9,9,120,193.35999999999999,2025-04,Sunday,1,30-44,Low,First-Time | Economy | Low
+19,Female,France,2025-08-09,Premium,150,1,141.24,19.84,0,9.9,6,150,311.08,2025-08,Saturday,1,18-29,Medium,First-Time | Premium | Medium
+22,Male,USA,2025-07-09,Economy,60,2,147.41,20.81,0,9.0,10,120,288.21999999999997,2025-07,Wednesday,0,18-29,Medium,First-Time | Economy | Medium
+46,Male,Sweden,2025-08-27,Economy,60,1,74.99,61.21,0,8.8,7,60,196.20000000000002,2025-08,Wednesday,0,45-59,Low,First-Time | Economy | Low
+54,Female,UK,2025-04-28,Premium,150,1,24.72,34.06,1,9.2,8,150,208.78,2025-04,Monday,0,45-59,Low,Repeat | Premium | Low
+55,Male,Japan,2025-08-23,High Economy,100,1,40.79,7.98,0,7.5,10,100,148.76999999999998,2025-08,Saturday,1,45-59,Low,First-Time | High Economy | Low
+36,Female,Sweden,2025-02-09,High Economy,100,1,51.62,13.58,0,10.0,10,100,165.20000000000002,2025-02,Sunday,1,30-44,Low,First-Time | High Economy | Low
+25,Male,France,2025-06-13,Premium,150,4,99.49,14.07,0,4.5,9,600,713.5600000000001,2025-06,Friday,0,18-29,High,First-Time | Premium | High
+65,Male,Sweden,2025-03-13,Economy,60,2,38.96,28.15,0,10.0,7,120,187.11,2025-03,Thursday,0,60+,Low,First-Time | Economy | Low
+62,Male,Sweden,2025-03-18,High Economy,100,2,23.43,30.5,1,9.4,8,200,253.93,2025-03,Tuesday,0,60+,Medium,Repeat | High Economy | Medium
+18,Female,Sweden,2025-07-30,Premium,150,1,16.25,31.85,0,8.4,8,150,198.1,2025-07,Wednesday,0,18-29,Low,First-Time | Premium | Low
+39,Other,France,2025-01-16,High Economy,100,1,103.6,2.7,0,8.1,8,100,206.29999999999998,2025-01,Thursday,0,30-44,Low,First-Time | High Economy | Low
+69,Male,Japan,2025-02-23,Economy,60,2,75.1,39.78,0,7.8,6,120,234.88,2025-02,Sunday,1,60+,Low,First-Time | Economy | Low
+34,Female,Australia,2025-07-15,Premium,150,4,36.13,10.85,1,9.7,10,600,646.98,2025-07,Tuesday,0,30-44,High,Repeat | Premium | High
+24,Female,Sweden,2025-04-04,Economy,60,3,38.74,7.56,1,7.9,8,180,226.3,2025-04,Friday,0,18-29,Low,Repeat | Economy | Low
+42,Female,USA,2025-01-23,Premium,150,3,19.19,30.22,0,6.9,7,450,499.40999999999997,2025-01,Thursday,0,30-44,High,First-Time | Premium | High
+62,Male,France,2025-02-27,Economy,60,2,175.42,45.65,0,9.4,7,120,341.06999999999994,2025-02,Thursday,0,60+,Medium,First-Time | Economy | Medium
+21,Female,Sweden,2025-08-31,Economy,60,1,55.46,35.25,0,10.0,8,60,150.71,2025-08,Sunday,1,18-29,Low,First-Time | Economy | Low
+53,Female,Japan,2025-08-11,Premium,150,1,10.92,22.11,0,5.1,6,150,183.02999999999997,2025-08,Monday,0,45-59,Low,First-Time | Premium | Low
+23,Male,Australia,2025-06-15,Premium,150,4,13.11,27.24,0,10.0,9,600,640.35,2025-06,Sunday,1,18-29,High,First-Time | Premium | High
+48,Male,France,2025-04-21,Economy,60,3,34.67,6.11,1,6.4,8,180,220.78000000000003,2025-04,Monday,0,45-59,Low,Repeat | Economy | Low
+36,Female,Germany,2025-04-15,High Economy,100,4,22.54,6.07,0,6.6,10,400,428.61,2025-04,Tuesday,0,30-44,High,First-Time | High Economy | High
+61,Other,Australia,2025-05-03,Economy,60,3,47.15,57.02,1,6.1,8,180,284.17,2025-05,Saturday,1,60+,Medium,Repeat | Economy | Medium
+56,Male,USA,2025-03-10,VIP,200,2,71.26,16.65,0,8.0,6,400,487.90999999999997,2025-03,Monday,0,45-59,High,First-Time | VIP | High
+44,Female,Sweden,2025-09-02,Economy,60,3,20.53,10.8,0,6.1,6,180,211.33,2025-09,Tuesday,0,30-44,Low,First-Time | Economy | Low
+27,Other,Japan,2025-09-05,Economy,60,4,36.84,7.33,0,6.3,7,240,284.17,2025-09,Friday,0,18-29,Medium,First-Time | Economy | Medium
+43,Female,Germany,2025-08-13,Economy,60,4,15.64,28.56,0,7.0,8,240,284.2,2025-08,Wednesday,0,30-44,Medium,First-Time | Economy | Medium
+36,Other,Japan,2025-04-16,VIP,200,4,146.13,27.52,0,8.2,7,800,973.65,2025-04,Wednesday,0,30-44,High,First-Time | VIP | High
+56,Female,Germany,2025-08-29,High Economy,100,2,71.2,21.63,0,8.4,8,200,292.83,2025-08,Friday,0,45-59,Medium,First-Time | High Economy | Medium
+20,Male,France,2025-02-27,High Economy,100,3,73.65,29.11,0,9.9,7,300,402.76,2025-02,Thursday,0,18-29,Medium,First-Time | High Economy | Medium
+62,Male,Germany,2025-05-18,Premium,150,3,67.28,23.26,0,9.8,8,450,540.54,2025-05,Sunday,1,60+,High,First-Time | Premium | High
+30,Male,USA,2025-04-23,High Economy,100,4,22.36,13.44,0,9.5,7,400,435.8,2025-04,Wednesday,0,30-44,High,First-Time | High Economy | High
+67,Female,USA,2025-08-24,VIP,200,3,56.22,3.95,0,7.6,9,600,660.1700000000001,2025-08,Sunday,1,60+,High,First-Time | VIP | High
+45,Female,UK,2025-06-01,Economy,60,1,54.4,38.61,0,5.2,8,60,153.01,2025-06,Sunday,1,45-59,Low,First-Time | Economy | Low
+37,Male,USA,2025-01-01,High Economy,100,1,57.37,28.15,0,5.2,10,100,185.52,2025-01,Wednesday,0,30-44,Low,First-Time | High Economy | Low
+45,Female,Australia,2025-03-20,VIP,200,1,25.99,30.11,0,9.5,9,200,256.1,2025-03,Thursday,0,45-59,Medium,First-Time | VIP | Medium
+25,Female,Germany,2025-04-16,High Economy,100,3,27.48,31.7,0,9.3,8,300,359.18,2025-04,Wednesday,0,18-29,Medium,First-Time | High Economy | Medium
+58,Female,USA,2025-08-06,High Economy,100,2,92.57,22.36,1,7.1,8,200,314.93,2025-08,Wednesday,0,45-59,Medium,Repeat | High Economy | Medium
+56,Female,France,2025-03-15,VIP,200,2,35.14,15.66,1,5.8,6,400,450.8,2025-03,Saturday,1,45-59,High,Repeat | VIP | High
+18,Female,Japan,2025-08-09,Economy,60,2,92.59,38.73,0,6.4,10,120,251.32,2025-08,Saturday,1,18-29,Medium,First-Time | Economy | Medium
+20,Male,Japan,2025-07-08,Economy,60,2,26.15,16.3,0,8.3,7,120,162.45000000000002,2025-07,Tuesday,0,18-29,Low,First-Time | Economy | Low
+30,Male,UK,2025-02-01,High Economy,100,1,25.25,18.97,0,8.3,8,100,144.22,2025-02,Saturday,1,30-44,Low,First-Time | High Economy | Low
+45,Male,Japan,2025-06-24,VIP,200,1,24.21,12.44,1,9.6,9,200,236.65,2025-06,Tuesday,0,45-59,Low,Repeat | VIP | Low
+66,Male,Germany,2025-01-07,Economy,60,4,45.89,32.37,0,7.3,8,240,318.26,2025-01,Tuesday,0,60+,Medium,First-Time | Economy | Medium
+42,Female,UK,2025-08-08,High Economy,100,3,96.4,14.95,0,7.6,10,300,411.34999999999997,2025-08,Friday,0,30-44,Medium,First-Time | High Economy | Medium
+50,Female,Germany,2025-05-20,Premium,150,3,27.38,24.81,1,9.7,6,450,502.19,2025-05,Tuesday,0,45-59,High,Repeat | Premium | High
+55,Male,France,2025-07-12,High Economy,100,2,25.96,17.04,0,4.8,10,200,243.0,2025-07,Saturday,1,45-59,Low,First-Time | High Economy | Low
+23,Female,UK,2025-02-25,High Economy,100,1,57.21,5.02,0,8.5,9,100,162.23000000000002,2025-02,Tuesday,0,18-29,Low,First-Time | High Economy | Low
+61,Male,Sweden,2025-06-25,High Economy,100,2,12.97,32.16,0,7.5,8,200,245.13,2025-06,Wednesday,0,60+,Low,First-Time | High Economy | Low
+62,Other,Australia,2025-08-08,High Economy,100,4,99.98,25.94,0,9.1,8,400,525.9200000000001,2025-08,Friday,0,60+,High,First-Time | High Economy | High
+49,Other,Australia,2025-07-28,High Economy,100,3,47.65,13.99,1,8.8,5,300,361.64,2025-07,Monday,0,45-59,Medium,Repeat | High Economy | Medium
+62,Male,Germany,2025-02-06,Economy,60,3,48.38,21.84,1,7.0,7,180,250.22,2025-02,Thursday,0,60+,Low,Repeat | Economy | Low
+64,Female,Japan,2025-01-10,Premium,150,2,105.64,33.05,0,7.2,8,300,438.69,2025-01,Friday,0,60+,High,First-Time | Premium | High
+38,Male,Sweden,2025-01-10,Economy,60,4,127.91,49.45,0,4.5,8,240,417.35999999999996,2025-01,Friday,0,30-44,High,First-Time | Economy | High
+33,Female,UK,2025-03-28,Economy,60,3,41.62,20.32,0,9.1,10,180,241.94,2025-03,Friday,0,30-44,Low,First-Time | Economy | Low
+38,Female,Sweden,2025-05-01,High Economy,100,4,25.83,17.84,0,8.4,10,400,443.66999999999996,2025-05,Thursday,0,30-44,High,First-Time | High Economy | High
+28,Male,Sweden,2025-01-25,High Economy,100,4,35.05,19.84,0,10.0,8,400,454.89,2025-01,Saturday,1,18-29,High,First-Time | High Economy | High
+54,Female,Japan,2025-01-22,High Economy,100,2,25.19,12.66,0,7.4,8,200,237.85,2025-01,Wednesday,0,45-59,Low,First-Time | High Economy | Low
+53,Male,UK,2025-05-16,High Economy,100,1,18.76,19.24,0,9.4,7,100,138.0,2025-05,Friday,0,45-59,Low,First-Time | High Economy | Low
+52,Male,France,2025-07-13,Economy,60,2,16.39,11.81,0,6.4,5,120,148.2,2025-07,Sunday,1,45-59,Low,First-Time | Economy | Low
+36,Female,Japan,2025-05-05,High Economy,100,1,36.55,13.17,0,3.9,7,100,149.72,2025-05,Monday,0,30-44,Low,First-Time | High Economy | Low
+37,Male,Sweden,2025-05-27,Economy,60,4,73.05,8.96,0,7.9,8,240,322.01,2025-05,Tuesday,0,30-44,Medium,First-Time | Economy | Medium
+35,Female,Sweden,2025-01-15,VIP,200,1,52.37,16.66,0,7.1,10,200,269.03000000000003,2025-01,Wednesday,0,30-44,Medium,First-Time | VIP | Medium
+64,Male,France,2025-01-09,VIP,200,4,64.71,17.42,0,6.4,9,800,882.13,2025-01,Thursday,0,60+,High,First-Time | VIP | High
+58,Other,Sweden,2025-01-15,High Economy,100,3,57.68,23.28,0,9.3,8,300,380.96000000000004,2025-01,Wednesday,0,45-59,Medium,First-Time | High Economy | Medium
+66,Male,Sweden,2025-04-23,Premium,150,3,9.15,5.81,0,9.8,7,450,464.96,2025-04,Wednesday,0,60+,High,First-Time | Premium | High
+31,Female,Sweden,2025-03-15,Premium,150,3,32.71,28.55,0,8.2,5,450,511.26,2025-03,Saturday,1,30-44,High,First-Time | Premium | High
+32,Female,Australia,2025-04-27,Premium,150,2,48.43,14.47,0,7.7,5,300,362.90000000000003,2025-04,Sunday,1,30-44,Medium,First-Time | Premium | Medium
+48,Male,Japan,2025-03-30,Premium,150,2,44.38,1.9,0,8.1,6,300,346.28,2025-03,Sunday,1,45-59,Medium,First-Time | Premium | Medium
+18,Other,USA,2025-05-03,VIP,200,4,29.11,26.17,0,7.0,8,800,855.28,2025-05,Saturday,1,18-29,High,First-Time | VIP | High
+20,Female,Japan,2025-05-10,Economy,60,3,53.52,12.47,0,8.8,10,180,245.99,2025-05,Saturday,1,18-29,Low,First-Time | Economy | Low
+33,Female,France,2025-05-31,Premium,150,2,105.33,48.96,1,5.7,10,300,454.28999999999996,2025-05,Saturday,1,30-44,High,Repeat | Premium | High
+40,Female,Sweden,2025-01-03,Economy,60,3,68.64,7.41,0,6.4,9,180,256.05,2025-01,Friday,0,30-44,Medium,First-Time | Economy | Medium
+28,Other,Japan,2025-03-27,Economy,60,2,92.31,21.27,0,6.8,7,120,233.58,2025-03,Thursday,0,18-29,Low,First-Time | Economy | Low
+29,Other,Australia,2025-07-25,Economy,60,1,113.68,8.28,0,8.8,10,60,181.96,2025-07,Friday,0,18-29,Low,First-Time | Economy | Low
+27,Female,France,2025-04-03,VIP,200,1,87.6,2.05,0,7.5,7,200,289.65000000000003,2025-04,Thursday,0,18-29,Medium,First-Time | VIP | Medium
+49,Female,Germany,2025-07-30,Economy,60,3,106.73,59.12,0,10.0,9,180,345.85,2025-07,Wednesday,0,45-59,Medium,First-Time | Economy | Medium
+33,Male,Japan,2025-06-25,High Economy,100,4,6.17,14.66,0,9.2,6,400,420.83000000000004,2025-06,Wednesday,0,30-44,High,First-Time | High Economy | High
+25,Male,Germany,2025-04-06,High Economy,100,2,55.16,10.27,0,6.8,6,200,265.43,2025-04,Sunday,1,18-29,Medium,First-Time | High Economy | Medium
+55,Female,Sweden,2025-02-27,High Economy,100,2,21.6,26.47,0,9.0,10,200,248.07,2025-02,Thursday,0,45-59,Low,First-Time | High Economy | Low
+29,Male,Australia,2025-08-15,Economy,60,1,74.54,20.16,0,7.4,8,60,154.70000000000002,2025-08,Friday,0,18-29,Low,First-Time | Economy | Low
+41,Female,Australia,2025-08-29,Premium,150,1,82.45,2.12,0,8.7,7,150,234.57,2025-08,Friday,0,30-44,Low,First-Time | Premium | Low
+45,Male,Japan,2025-03-24,Economy,60,4,22.08,8.75,1,9.3,10,240,270.83,2025-03,Monday,0,45-59,Medium,Repeat | Economy | Medium
+25,Male,France,2025-08-20,High Economy,100,4,86.0,8.83,0,9.7,10,400,494.83,2025-08,Wednesday,0,18-29,High,First-Time | High Economy | High
+45,Female,France,2025-05-05,Economy,60,4,46.82,4.97,1,8.3,7,240,291.79,2025-05,Monday,0,45-59,Medium,Repeat | Economy | Medium
+53,Other,Australia,2025-07-24,Economy,60,3,48.06,12.54,1,10.0,8,180,240.6,2025-07,Thursday,0,45-59,Low,Repeat | Economy | Low
+43,Male,France,2025-02-06,Premium,150,1,86.18,15.15,0,8.7,8,150,251.33,2025-02,Thursday,0,30-44,Medium,First-Time | Premium | Medium
+25,Female,Australia,2025-06-28,Economy,60,3,24.48,31.34,0,8.2,4,180,235.82,2025-06,Saturday,1,18-29,Low,First-Time | Economy | Low
+67,Female,Japan,2025-09-03,VIP,200,1,85.74,18.04,0,7.5,6,200,303.78000000000003,2025-09,Wednesday,0,60+,Medium,First-Time | VIP | Medium
+45,Male,USA,2025-06-13,VIP,200,1,24.62,3.93,1,7.1,9,200,228.55,2025-06,Friday,0,45-59,Low,Repeat | VIP | Low
+45,Female,Australia,2025-06-24,VIP,200,2,46.46,9.75,1,8.6,7,400,456.21,2025-06,Tuesday,0,45-59,High,Repeat | VIP | High
+54,Male,Germany,2025-05-27,Premium,150,1,24.47,25.44,0,8.2,9,150,199.91,2025-05,Tuesday,0,45-59,Low,First-Time | Premium | Low
+58,Male,France,2025-01-07,High Economy,100,1,58.11,18.86,1,8.4,8,100,176.97000000000003,2025-01,Tuesday,0,45-59,Low,Repeat | High Economy | Low
+53,Other,Australia,2025-08-12,VIP,200,3,56.71,11.83,0,8.7,10,600,668.5400000000001,2025-08,Tuesday,0,45-59,High,First-Time | VIP | High
+44,Male,Australia,2025-03-31,VIP,200,1,51.46,3.55,0,8.4,6,200,255.01000000000002,2025-03,Monday,0,30-44,Medium,First-Time | VIP | Medium
+34,Female,Japan,2025-04-26,Economy,60,3,33.04,52.95,1,10.0,9,180,265.99,2025-04,Saturday,1,30-44,Medium,Repeat | Economy | Medium
+26,Female,France,2025-01-07,Economy,60,4,79.49,62.49,1,7.2,8,240,381.98,2025-01,Tuesday,0,18-29,Medium,Repeat | Economy | Medium
+50,Male,USA,2025-03-19,Economy,60,1,7.03,21.54,0,8.6,7,60,88.57,2025-03,Wednesday,0,45-59,Low,First-Time | Economy | Low
+37,Female,Japan,2025-06-10,Economy,60,1,41.26,14.15,1,7.7,7,60,115.41,2025-06,Tuesday,0,30-44,Low,Repeat | Economy | Low
+30,Other,USA,2025-04-04,Economy,60,3,94.53,10.32,1,4.3,8,180,284.84999999999997,2025-04,Friday,0,30-44,Medium,Repeat | Economy | Medium
+45,Male,Japan,2025-01-30,VIP,200,4,108.35,19.44,1,7.7,9,800,927.7900000000001,2025-01,Thursday,0,45-59,High,Repeat | VIP | High
+65,Female,France,2025-02-07,Premium,150,2,54.38,40.01,1,6.6,8,300,394.39,2025-02,Friday,0,60+,Medium,Repeat | Premium | Medium
+46,Female,UK,2025-04-24,Economy,60,4,54.61,15.7,1,7.9,8,240,310.31,2025-04,Thursday,0,45-59,Medium,Repeat | Economy | Medium
+30,Female,France,2025-06-13,Premium,150,3,18.03,8.69,0,8.0,7,450,476.71999999999997,2025-06,Friday,0,30-44,High,First-Time | Premium | High
+63,Female,France,2025-05-22,High Economy,100,4,22.64,49.5,1,8.6,7,400,472.14,2025-05,Thursday,0,60+,High,Repeat | High Economy | High
+52,Male,USA,2025-04-02,VIP,200,3,5.63,7.65,0,7.2,7,600,613.28,2025-04,Wednesday,0,45-59,High,First-Time | VIP | High
+23,Other,USA,2025-09-04,Premium,150,3,60.93,10.47,1,7.4,7,450,521.4,2025-09,Thursday,0,18-29,High,Repeat | Premium | High
+35,Other,France,2025-01-22,High Economy,100,2,148.3,20.37,0,9.1,9,200,368.67,2025-01,Wednesday,0,30-44,Medium,First-Time | High Economy | Medium
+68,Female,France,2025-01-20,High Economy,100,1,107.5,8.03,0,6.8,9,100,215.53,2025-01,Monday,0,60+,Low,First-Time | High Economy | Low
+22,Female,France,2025-02-13,High Economy,100,3,16.45,25.76,0,5.2,6,300,342.21,2025-02,Thursday,0,18-29,Medium,First-Time | High Economy | Medium
+64,Female,USA,2025-02-28,High Economy,100,3,20.76,13.31,0,8.2,7,300,334.07,2025-02,Friday,0,60+,Medium,First-Time | High Economy | Medium
+42,Female,France,2025-03-28,VIP,200,2,99.03,4.54,0,9.6,7,400,503.57,2025-03,Friday,0,30-44,High,First-Time | VIP | High
+19,Female,France,2025-08-11,VIP,200,3,46.51,26.25,1,9.0,8,600,672.76,2025-08,Monday,0,18-29,High,Repeat | VIP | High
